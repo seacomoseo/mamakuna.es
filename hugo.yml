@@ -1,14 +1,14 @@
-baseURL: ''
+baseURL: https://mamakuna.es
 Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: ''
-  netlify_name: ''
-  netlify_id: ''
-  hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  drive_link: ''
-  drive_mails: ''
+  git_url: https://github.com/seacomoseo/mamakuna.es
+  netlify_name: mamakuna
+  netlify_id: 5dcabfc1-fddb-46d7-9689-4e97c0b98430
+  hook: NjYxN2NhMzYzODA5MjI4MTZlYmE0NzMyCg==
+  drive_link: https://drive.google.com/file/d/1QEBULcpW5tI-KXQwrvIjOjArWkgTyCfi
+  drive_mails: afreesky7@gmail.com
 defaultContentLanguage: es
 disableLanguages: [en]
 languages:
