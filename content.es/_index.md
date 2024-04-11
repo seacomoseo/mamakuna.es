@@ -17,7 +17,7 @@ sections:
 - file: por-que-conmigo
 - file: proceso
 - file: faq
-- file: resenas
+- file: testimonios
 - file: contacto
 - file: blog
 ---

@@ -2,6 +2,8 @@ title: Proceso
 subtitle: ¿Cómo sucede?
 rows:
 - type: steps
+  design:
+    underline: true
   items:
   - icon: 1
     title: Lorem ipsum

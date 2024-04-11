@@ -12,8 +12,11 @@ rows:
   design:
     align_y: center
     gap: 3
+    underline: true
   items:
-  - image: logo-tr.svg
+  - image: icon.svg
+    ratio: 3x2
+    title: MAMAKUNA
     subtitle: Activo tu sabiduría a través de la energía
     description: |
       Sanación a través de diferentes terapias alternativas

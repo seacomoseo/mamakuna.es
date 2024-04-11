@@ -1,11 +1,10 @@
 title: Terapias
 subtitle: Herramientas a tu servicio
-size: xl
+size: md
 rows:
 - type: columns
   design:
-    num: 6
-    num_xs: true
+    num: 4
     underline: true
     color: white
     inset: true
@@ -21,9 +20,9 @@ rows:
   - icon: people-dress-simple
     title: Círculos <br> de mujeres
     subtitle: 
-  - icon: hand-fist
-    title: Soberanía ancestral <br> femenina
-    subtitle: Activación de códigos
+  # - icon: hand-fist
+  #   title: Soberanía ancestral <br> femenina
+  #   subtitle: Activación de códigos
   - icon: venus
     title: Sanación <br> de útero
     subtitle: 
@@ -31,14 +30,14 @@ rows:
     title: Constelaciones familiares <br> individuales
     subtitle: 
   - icon: eye
-    title: Canal <br> Akáshico
+    title: Registros <br> Akáshicos
     subtitle: 
-  - icon: fire-flame-curved
-    title: Lectura <br> de alma
-    subtitle: 
-  - icon: cards-blank
-    title: Lectura de <br> cartas oráculo
-    subtitle: 
+  # - icon: fire-flame-curved
+  #   title: Lectura <br> de alma
+  #   subtitle: 
+  # - icon: cards-blank
+  #   title: Lectura de <br> cartas oráculo
+  #   subtitle: 
   - icon: music
     title: Música <br> medicina
     subtitle: 

@@ -3,9 +3,10 @@ subtitle: Misión, visión y valores
 rows:
 - type: columns
   design:
-    num: 2
+    gap: 3
   items:
   - order: 2
+    # image: fotos/05.png
     image: fotos/01.jpg
   - order: 1
     description: |

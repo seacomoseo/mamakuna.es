@@ -15,6 +15,9 @@ google_translate: false
 langs_in_more: false
 langs_out: true
 callnow_active: true
-callnow_buttons: []
+callnow_buttons:
+- type: whatsapp
+  label: 605 38 01 38
+  button: link
 normal: []
 more: []

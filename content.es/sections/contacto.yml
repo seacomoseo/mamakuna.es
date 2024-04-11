@@ -1,15 +1,18 @@
 title: Contacto
 subtitle: Siente más, piensa menos
 button: link
-size: sm
+size: xs
 rows:
+- type: columns
+  items:
+  - link: https://wa.me/34605380138
+    label: 605 38 01 38
+    licon: whatsapp
 - type: contact
   data:
-  - type: phone
-    label: 605 38 01 38
-  - type: whatsapp
-    label: 605 38 01 38
-    button: link
+  # - type: whatsapp
+  #   label: 605 38 01 38
+  #   button: link
   - type: address
     active: false
     name: Mamakuna - Terapeuta Holistica
@@ -23,3 +26,9 @@ rows:
     active: false
     link: https://g.page/webmurcia
     iframe: ''
+- type: columns
+  design:
+    num: 3
+  items:
+  - image: fotos/06.png
+    span: 2
