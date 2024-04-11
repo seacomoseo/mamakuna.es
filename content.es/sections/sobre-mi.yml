@@ -1,0 +1,20 @@
+title: Sobre mi
+subtitle: Misión, visión y valores
+rows:
+- type: columns
+  design:
+    num: 2
+  items:
+  - order: 2
+    image: fotos/01.jpg
+  - order: 1
+    description: |
+      La razón de haber encarnado en este plano es la de estar a tu servicio. Vengo a contribuir junto con tantas otras almas a hacer de este mundo un lugar amoroso. La frecuencia planetaria se está elevando y esto es gracias a los cambios que los seres humanos estamos haciendo en nuestro proceso de autoconocimiento.  
+
+      Somos nosotros los portales hacia el amor y la paz, esto solo se consigue conquistando nuestras guerras internas, a través del perdón, la comprensión y aceptación plena de nosotros mismos. Somos entidades de energía que un tiempo atrás elegimos nacer en un cuerpo humano, olvidando quienes éramos. Toda la memoria de la creación está impregnada en nuestras células, hoy es tiempo de recordar. 
+
+      Estoy aquí para ser apoyo de tu proceso, para facilitarte el camino y acompañarte hacia el descubrimiento de tu Yo Soy, de la divinidad en ti, de tu esencia.
+    more:
+      align: left
+      align_xl: right
+      align_y: center

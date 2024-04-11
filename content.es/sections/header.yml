@@ -1,13 +1,23 @@
-title: SanSoul Hugo Theme
-subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
-image: logo.svg
-color: main-dark
+anchor: Mamakuna - Terapeuta Holistica
+color: light
+gradient: white
+gradient_type: circle
 bg: fondo.jpg
-description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-  [btn icon-plus Más](#principal)
+opacity: 20
+size: md
 more:
   full_screen: true
-  image_min: 18
-  image_max: 20
+rows:
+- type: columns
+  design:
+    align_y: center
+    gap: 3
+  items:
+  - image: logo-tr.svg
+    subtitle: Activo tu sabiduría a través de la energía
+    description: |
+      Sanación a través de diferentes terapias alternativas
+
+      [btn icon-plus Más](#terapias)
+  - image: fotos/03.jpg
+    ratio: 2x3

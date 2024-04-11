@@ -1,0 +1,21 @@
+title: ¿Por qué conmigo?
+subtitle: Me diferencia...
+rows:
+- type: columns
+  design:
+    underline: true
+    # inset: true
+    # image: fondo.jpg
+  items:
+  - icon: hand-heart
+    title: Tú <br> eliges
+    description: Durante la sesión estoy en comunicación con tu alma en todo momento, es ella quien me va guiando el camino en tu proceso de sanación. Soy un canal a tu servicio, ni más ni menos, eres tú quien decide hasta donde quiere llegar y mi postura es respetar las elecciones de tu alma.  
+  - icon: hand-holding-hand
+    title: Conexión <br> autentica
+    description: Todos los servicios que ofrezco vienen a través de mi Yo Soy, de manera que el procedimiento inicial es siempre el mismo, ser un canal entre Cielo y Tierra. Es divinidad en mi quien me va guiando, no hay una estructura definida sino una armoniosa fluidez intuitiva. 
+  - icon: hands-praying
+    title: Integración <br> como pilar
+    description: Cuando hablamos de liberarnos del dolor, tenemos que tener en cuenta que la liberación es un proceso de integración de las partes de ti que juzgas, sólo es posible liberarse a través de la aceptación de ti mismo, de ti misma.  
+  - icon: hands-holding-heart
+    title: Acompañamiento <br> individualizado
+    description: Activando los cuerpos que conforman tu ser, (físico-mental-emocional-energético-espiritual) reorganizando la información de tus células para que vibren en consonancia entre ellos y encuentres el equilibrio.

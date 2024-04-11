@@ -1,25 +1,25 @@
 icons:
-  type: solid
+  type: regular
   emojis: ''
   emojis_default: false
 fonts:
   google: true
   base:
-    family: Montserrat
+    family: Playfair Display
     weight: 400
     strong: 0
     italic: false
     line-height: 1.25
   cursive:
-    family: Dancing Script
+    family: Playfair Display
     weight: 400
     strong: 0
-    italic: false
+    italic: true
     line-height: 1.25
     top: 0
   title:
-    family: Montserrat
-    weight: 800
+    family: Playfair Display
+    weight: 600
     strong: 0
     italic: false
     line-height: 1.25
@@ -27,7 +27,7 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#975b27'
     light: '#fff'
     dark: '#fff'
     contrast: text
@@ -37,29 +37,29 @@ colors:
     dark: '#fff'
     contrast: all
   link:
-    color: '#fe5f55'
+    color: '#fff'
     light: '#fff'
     dark: '#fff'
     contrast: text
   base:
     white: '#fff'
-    light: '#eee'
+    light: '#f2e9e6'
     grey: '#767676'
-    dark: '#282525'
+    dark: '#573313'
     black: '#000'
 rounded:
-  radius: 0.33
+  radius: 1.33
   chamfer: false
 buttons:
   sides_round: false
   icon_circle: false
-  deep: false
-  outline: false
+  deep: true
+  outline: true
   font_base: false
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.15
   color: black
   opacity: 0.15
 lightbox_overlay:
@@ -67,5 +67,5 @@ lightbox_overlay:
   color: black
 performance:
   showup: true
-  parallax: true
+  parallax: false
   srcsetx2: true

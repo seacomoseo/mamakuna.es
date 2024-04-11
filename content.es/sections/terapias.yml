@@ -1,0 +1,47 @@
+title: Terapias
+subtitle: Herramientas a tu servicio
+size: xl
+rows:
+- type: columns
+  design:
+    num: 6
+    num_xs: true
+    underline: true
+    color: white
+    inset: true
+    image: fondo.jpg
+    link: '#ejemplo'
+  items:
+  - icon: hand-sparkles
+    title: Limpieza energética <br> de cuerpos
+    subtitle: espiritual-mental-emocional
+  - icon: sparkles
+    title: Limpieza energética <br> de espacios
+    subtitle: 
+  - icon: people-dress-simple
+    title: Círculos <br> de mujeres
+    subtitle: 
+  - icon: hand-fist
+    title: Soberanía ancestral <br> femenina
+    subtitle: Activación de códigos
+  - icon: venus
+    title: Sanación <br> de útero
+    subtitle: 
+  - icon: dna
+    title: Constelaciones familiares <br> individuales
+    subtitle: 
+  - icon: eye
+    title: Canal <br> Akáshico
+    subtitle: 
+  - icon: fire-flame-curved
+    title: Lectura <br> de alma
+    subtitle: 
+  - icon: cards-blank
+    title: Lectura de <br> cartas oráculo
+    subtitle: 
+  - icon: music
+    title: Música <br> medicina
+    subtitle: 
+  - icon: coffee-bean
+    title: Ceremonias <br> de cacao
+    subtitle: 

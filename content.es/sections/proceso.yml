@@ -1,26 +1,25 @@
 title: Proceso
-subtitle: ¿Qué pasos seguimos?
-icon: shoe-prints
+subtitle: ¿Cómo sucede?
 rows:
 - type: steps
   items:
-  - title: Lorem ipsum
+  - icon: 1
+    title: Lorem ipsum
     subtitle: Dolor sit amet
-    icon: star
     description: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: Lorem ipsum
+  - icon: 2
+    title: Lorem ipsum
     subtitle: Dolor sit amet
-    icon: star
     description: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: Lorem ipsum
+  - icon: 3
+    title: Lorem ipsum
     subtitle: Dolor sit amet
-    icon: star
     description: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: Lorem ipsum
+  - icon: 4
+    title: Lorem ipsum
     subtitle: Dolor sit amet
-    icon: star
     description: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

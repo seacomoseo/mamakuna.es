@@ -1,0 +1,5 @@
+color: light
+bg: fondo.jpg
+opacity: 100
+more:
+  full_screen: true

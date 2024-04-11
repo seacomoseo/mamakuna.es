@@ -1,22 +1,23 @@
 ---
 title: Inicio
-title_seo: Tema SanSoul de Hugo
+title_seo: Mamakuna - Terapeuta Holistica
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
+description: llll➤ Sanación a través de diferentes terapias energéticas alternativas ✅ por Salom (Afree).
 image: fondo.jpg
 draft: false
 noindex: false
 translationKey: home
 sections:
 - file: header
-- file: nosotros
-- file: servicios
+- file: header-next
+- file: terapias
   modals:
   - ejemplo
+- file: sobre-mi
+- file: por-que-conmigo
 - file: proceso
-- file: fotos
-- file: noticias
 - file: faq
 - file: resenas
 - file: contacto
+- file: blog
 ---

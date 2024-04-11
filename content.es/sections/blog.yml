@@ -1,6 +1,5 @@
-title: Noticias
-subtitle: Novedades
-icon: rss
+title: Blog
+subtitle: Meditaciones
 rows:
 - type: articles
   kind: blog
