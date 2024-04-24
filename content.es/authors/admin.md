@@ -9,4 +9,6 @@ draft: false
 noindex: true
 translationKey: admin
 ---
-Activo tu sabiduría a través de la energía
+Activo tu sabiduría a través de la energía.
+
+[btn Más sobre mí](/#sobre-mi)

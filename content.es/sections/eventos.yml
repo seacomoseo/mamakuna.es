@@ -1,8 +1,8 @@
-title: Blog
-subtitle: Meditaciones
+title: Eventos
+subtitle: Calendario
 rows:
 - type: articles
-  kind: blog
+  kind: events
   max: 12
   design:
     slider: true

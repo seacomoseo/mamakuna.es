@@ -7,10 +7,10 @@ transparent: true
 hide_anchors: false
 hide_icons: true
 show_modals: true
-show_blog_auto: true
-show_products_auto: true
-show_taxonomies_auto: true
-search: true
+show_blog_auto: false
+show_products_auto: false
+show_taxonomies_auto: false
+search: false
 google_translate: false
 langs_in_more: false
 langs_out: true
@@ -22,6 +22,7 @@ callnow_buttons:
 normal:
 # - label: Inicio
 #   link: /
+#   anchor: Mamakuna - Terapeuta Holística en Murcia
 # - label: Terapias
 #   link: /#terapias
 #   items:
@@ -57,6 +58,8 @@ normal:
 #   link: /#proceso
 # - label: FAQ
 #   link: /#faq
+# - label: Eventos
+#   link: /eventos/
 # - label: Testimonios
 #   link: /#testimonios
 # - label: Contacto

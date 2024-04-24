@@ -7,11 +7,11 @@ content:
   align: left
   color: light
   toc_color: white
-  border: main
+  border: ''
   reading_time: true
 common:
   size: ''
-  num: 3
+  num: 4
   num_xs: false
   gap: ''
   title_size: null
@@ -51,7 +51,8 @@ common:
   hide_bullets: false
   hide_arrows: false
 blog: {}
-events: {}
+events:
+  card: true
 products: {}
 taxonomies: {}
 custom: {}
