@@ -11,13 +11,9 @@ sections:
 - file: header
 - file: header-next
 - file: terapias
-  modals:
-  - ejemplo
 - file: sobre-mi
 - file: por-que-conmigo
-- file: proceso
-- file: faq
-- file: testimonios
+# - file: testimonios
 - file: contacto
-- file: blog
+# - file: blog
 ---

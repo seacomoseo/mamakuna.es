@@ -9,38 +9,53 @@ rows:
     color: white
     inset: true
     image: fondo.jpg
-    link: '#ejemplo'
   items:
   - icon: hand-sparkles
-    title: Limpieza energética <br> de cuerpos
+    title: Limpieza Energética <br> de Cuerpos
+    anchor: Limpieza Energética de Cuerpos Online
     subtitle: espiritual-mental-emocional
+    # link: /limpieza-energetica-cuerpos/
   - icon: sparkles
-    title: Limpieza energética <br> de espacios
-    subtitle: 
+    title: Limpieza Energética <br> de Espacios
+    anchor: Limpieza Energética de Espacios en Murcia
+    subtitle: ''
+    # link: /limpieza-energetica-espacios/
   - icon: venus
-    title: Círculos <br> de mujeres
-    subtitle: 
+    title: Círculos <br> de Mujeres
+    anchor: Círculos de Mujeres en Murcia
+    subtitle: ''
+    # link: /circulos-mujeres/
   # - icon: hand-fist
   #   title: Soberanía ancestral <br> femenina
   #   subtitle: Activación de códigos
   - icon: person-dress-simple
-    title: Sanación <br> de útero
-    subtitle: 
+    title: Sanación <br> de Útero
+    anchor: Sanación de Útero en Murcia
+    subtitle: ''
+    # link: /sanacion-utero/
   - icon: dna
-    title: Constelaciones familiares <br> individuales
-    subtitle: 
+    title: Constelaciones Familiares <br> Individuales
+    anchor: Constelaciones Familiares Individuales en Murcia
+    subtitle: ''
+    # link: /constelaciones-familiares/
   - icon: eye
     title: Registros <br> Akáshicos
-    subtitle: 
+    anchor: Registros Akáshicos Online y en Murcia
+    subtitle: ''
+    # link: /registros-akashicos/
   # - icon: fire-flame-curved
   #   title: Lectura <br> de alma
-  #   subtitle: 
+  #   subtitle: ''
   # - icon: cards-blank
   #   title: Lectura de <br> cartas oráculo
-  #   subtitle: 
+  #   subtitle: ''
   - icon: music
-    title: Música <br> medicina
-    subtitle: 
+    title: Música <br> Medicina
+    anchor: Música Medicina en Murcia
+    subtitle: ''
+    # link: /musica-medicina/
   - icon: coffee-bean
-    title: Ceremonias <br> de cacao
-    subtitle: 
+    title: Ceremonias <br> de Cacao
+    anchor: Ceremonias de Cacao en Murcia
+    subtitle: ''
+    # link: /ceremonias-cacao/

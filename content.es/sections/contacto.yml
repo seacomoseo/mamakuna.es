@@ -3,16 +3,11 @@ subtitle: Siente más, piensa menos
 button: link
 size: xs
 rows:
-- type: columns
-  items:
-  - link: https://wa.me/34605380138
-    label: 605 38 01 38
-    licon: whatsapp
 - type: contact
   data:
-  # - type: whatsapp
-  #   label: 605 38 01 38
-  #   button: link
+  - type: whatsapp
+    label: 605 38 01 38
+    button: link
   - type: address
     active: false
     name: Mamakuna - Terapeuta Holistica
@@ -22,13 +17,13 @@ rows:
     addressRegion: Murcia
     addressCountry: España
     coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-  map:
-    active: false
-    link: https://g.page/webmurcia
-    iframe: ''
-- type: columns
-  design:
-    num: 3
-  items:
-  - image: fotos/06.png
-    span: 2
+  # map:
+  #   active: false
+  #   link: https://g.page/webmurcia
+  #   iframe: ''
+# - type: columns
+#   design:
+#     num: 3
+#   items:
+#   - image: fotos/06.png
+#     span: 2

@@ -5,7 +5,7 @@ size_sticky: ''
 articles_sticky: false
 transparent: true
 hide_anchors: false
-hide_icons: false
+hide_icons: true
 show_modals: true
 show_blog_auto: true
 show_products_auto: true
@@ -19,5 +19,49 @@ callnow_buttons:
 - type: whatsapp
   label: 605 38 01 38
   button: link
-normal: []
+normal:
+# - label: Inicio
+#   link: /
+# - label: Terapias
+#   link: /#terapias
+#   items:
+#   - label: Limpieza Energética de Cuerpos
+#     anchor: Limpieza Energética de Cuerpos Online
+#     link: /limpieza-energetica-cuerpos/
+#   - label: Limpieza Energética de Espacios
+#     anchor: Limpieza Energética de Espacios en Murcia
+#     link: /limpieza-energetica-espacios/
+#   - label: Círculos de Mujeres
+#     anchor: Círculos de Mujeres en Murcia
+#     link: /circulos-mujeres/
+#   - label: Sanación de Útero
+#     anchor: Sanación de Útero en Murcia
+#     link: /sanacion-utero/
+#   - label: Constelaciones Familiares Individuales
+#     anchor: Constelaciones Familiares Individuales en Murcia
+#     link: /constelaciones-familiares/
+#   - label: Registros Akáshicos
+#     anchor: Registros Akáshicos Online y en Murcia
+#     link: /registros-akashicos/
+#   - label: Música Medicina
+#     anchor: Música Medicina en Murcia
+#     link: /musica-medicina/
+#   - label: Ceremonias de Cacao
+#     anchor: Ceremonias de Cacao en Murcia
+#     link: /ceremonias-cacao/
+# - label: Sobre mi
+#   link: /#sobre-mi
+# - label: ¿Por qué conmigo?
+#   link: /#por-que-conmigo
+# - label: Proceso
+#   link: /#proceso
+# - label: FAQ
+#   link: /#faq
+# - label: Testimonios
+#   link: /#testimonios
+# - label: Contacto
+#   link: /#contacto
+#   button: link
+# - label: Blog
+#   link: /blog/
 more: []

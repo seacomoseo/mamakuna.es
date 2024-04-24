@@ -12,19 +12,23 @@
   }
 }
 
-@keyframes soul {
-  100% {
-    transform: translateY(-2em);
-    // opacity: .75;
-    filter:
-      drop-shadow(0 2rem .5rem rgba($black, .15))
-      drop-shadow(0 .5em .5rem $white) 
-      drop-shadow(0 0 5rem $main)
-      ;
+// @keyframes soul {
+//   100% {
+//     transform: translateY(-2em);
+//     // opacity: .75;
+//     filter:
+//       drop-shadow(0 2rem .5rem rgba($black, .15))
+//       drop-shadow(0 .5em .5rem $white) 
+//       drop-shadow(0 0 5rem $main)
+//       ;
+//   }
+// }
+#contacto {
+  .contact__data > * {
+    flex-grow: 0;
   }
-}
-#contacto
-.column--item-1
-.shadow {
-  animation: soul 1s 0s both infinite alternate ease-in-out;
+  // .column--item-1
+  // .shadow {
+  //   animation: soul 1s 0s both infinite alternate ease-in-out;
+  // }
 }
