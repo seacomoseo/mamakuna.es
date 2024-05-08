@@ -17,7 +17,7 @@ langs_out: true
 callnow_active: true
 callnow_buttons:
 - type: whatsapp
-  label: 605 38 01 38
+  label: 605 38 01 98
   button: link
 normal:
 # - label: Inicio

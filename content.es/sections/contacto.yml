@@ -6,7 +6,7 @@ rows:
 - type: contact
   data:
   - type: whatsapp
-    label: 605 38 01 38
+    label: 605 38 01 98
     button: link
   - type: address
     active: false
