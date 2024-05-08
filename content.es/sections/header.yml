@@ -7,6 +7,7 @@ opacity: 20
 size: md
 more:
   full_screen: true
+  padding_top: 2
 rows:
 - type: columns
   design:
@@ -22,5 +23,5 @@ rows:
       Sanación a través de diferentes terapias alternativas
 
       [btn icon-plus Más](#terapias)
-  - image: fotos/03.jpg
-    ratio: 2x3
+  - image: https://youtu.be/x4gbH4CXDns#poster=fotos/introduccion.jpg
+    ratio: 9x16

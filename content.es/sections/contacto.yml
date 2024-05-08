@@ -17,10 +17,10 @@ rows:
     addressRegion: Murcia
     addressCountry: España
     coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-  # map:
-  #   active: false
-  #   link: https://g.page/webmurcia
-  #   iframe: ''
+  map:
+    active: false
+    link: https://g.page/r/Cem6Zye01vC0EBM
+    iframe: ''
 # - type: columns
 #   design:
 #     num: 3
