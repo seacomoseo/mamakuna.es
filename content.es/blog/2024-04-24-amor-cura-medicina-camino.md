@@ -49,4 +49,4 @@ Creo en el amor como medicina.
 
 Creo en el amor como camino
 
-Con amor, Salom (Afree)
+Con amor, Afree

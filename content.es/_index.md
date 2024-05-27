@@ -2,7 +2,7 @@
 title: Inicio
 title_seo: Mamakuna - Terapeuta Holística en Murcia
 slug: inicio
-description: llll➤ Sanación a través de diferentes terapias energéticas alternativas ✅ por Salom (Afree).
+description: llll➤ Sanación a través de diferentes terapias energéticas alternativas ✅ por Afree.
 image: fondo.jpg
 draft: false
 noindex: false
@@ -12,6 +12,8 @@ sections:
 - file: header-next
 - file: terapias
 - file: sobre-mi
+  modals:
+  - sobre-mi-mas
 - file: por-que-conmigo
 - file: eventos
 # - file: testimonios

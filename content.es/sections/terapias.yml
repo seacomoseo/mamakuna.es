@@ -10,16 +10,11 @@ rows:
     inset: true
     image: fondo.jpg
   items:
-  - icon: hand-sparkles
-    title: Limpieza Energética <br> de Cuerpos
-    anchor: Limpieza Energética de Cuerpos Online
-    subtitle: espiritual-mental-emocional
-    # link: /limpieza-energetica-cuerpos/
   - icon: sparkles
-    title: Limpieza Energética <br> de Espacios
-    anchor: Limpieza Energética de Espacios en Murcia
-    subtitle: ''
-    # link: /limpieza-energetica-espacios/
+    title: Limpieza Energética # <br> de Espacios y Cuerpos
+    anchor: Limpieza Energética en Murcia
+    subtitle: de Espacios y Cuerpos
+    # link: /limpieza-energetica/
   - icon: venus
     title: Círculos <br> de Mujeres
     anchor: Círculos de Mujeres en Murcia
@@ -34,9 +29,9 @@ rows:
     subtitle: ''
     # link: /sanacion-utero/
   - icon: dna
-    title: Constelaciones Familiares <br> Individuales
+    title: Constelaciones Familiares
     anchor: Constelaciones Familiares Individuales en Murcia
-    subtitle: ''
+    subtitle: Individuales
     # link: /constelaciones-familiares/
   - icon: eye
     title: Registros <br> Akáshicos
@@ -59,3 +54,7 @@ rows:
     anchor: Ceremonias de Cacao en Murcia
     subtitle: ''
     # link: /ceremonias-cacao/
+  - icon: hand-sparkles
+    title: Activación de <br> Códigos de Luz
+    anchor: Activación de Códigos de Luz Online
+    # link: /activacion-codigos-luz/

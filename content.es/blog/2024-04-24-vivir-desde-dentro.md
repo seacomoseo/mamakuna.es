@@ -33,4 +33,4 @@ Vivir desde dentro es hacer de todo tu maestro, tomar lo que se te presenta como
 
 Vivir desde dentro es tomar tu poder para transformar y sentirte creador/a de tu propia existencia.
 
-Con cariño, Salom (Afree) 🌻
+Con cariño, Afree 🌻

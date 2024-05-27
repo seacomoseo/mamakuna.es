@@ -1,7 +1,7 @@
 ---
-title: Salom (Afree)
+title: Afree
 title_seo: ''
-slug: salom
+slug: afree
 description: Activo tu sabiduría a través de la energía
 image: fondo.jpg
 toc: false

@@ -6,7 +6,7 @@ description: ''
 image: eventos/2024-04-27-ceremonia-cacao-circulo-mujeres.png
 categories: []
 tags: []
-author: salom
+author: admin
 toc: false
 draft: false
 noindex: false
