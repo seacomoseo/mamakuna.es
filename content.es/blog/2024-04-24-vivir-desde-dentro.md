@@ -3,7 +3,7 @@ title: Vivir desde dentro
 title_seo: ''
 slug: vivir-desde-dentro
 description: ''
-image: ''
+image: blog/vivir-desde-dentro.jpg
 categories: [general]
 tags: []
 author: admin

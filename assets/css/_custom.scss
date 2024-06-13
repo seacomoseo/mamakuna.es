@@ -1,3 +1,18 @@
+// Non selectable text
+body {
+  user-select: none;
+}
+
+#header:not(#body-inicio *) {
+  // blockquote {
+  //   margin-bottom: 0;
+  // }
+  .column__header {
+    order: -1;
+  }
+}
+
+// Header
 #body-inicio #header {
   @mixin show-from($delay) {
     animation: show-from .5s (.625 + .125s * $delay) both;
@@ -23,6 +38,7 @@
 //       ;
 //   }
 // }
+
 #contacto {
   .contact__data > * {
     flex-grow: 0;
@@ -31,4 +47,28 @@
   // .shadow {
   //   animation: soul 1s 0s both infinite alternate ease-in-out;
   // }
+}
+
+#body-constelaciones-familiares
+#header {
+  .column--item-2
+  .description {
+    gap: 2em;
+    @media (min-width: $screen-md) {
+      columns: 2;
+    }
+  }
+  :is(
+    .column--item-3,
+    .column--item-4
+  )
+  .description {
+    gap: 2em;
+    @media (min-width: $screen-md) {
+      columns: 2;
+    }
+    @media (min-width: $screen-xl) {
+      columns: 3;
+    }
+  }
 }

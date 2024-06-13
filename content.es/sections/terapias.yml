@@ -1,6 +1,6 @@
 title: Terapias
 subtitle: Herramientas a tu servicio
-size: md
+# size: md
 rows:
 - type: columns
   design:
@@ -8,56 +8,61 @@ rows:
     underline: true
     color: white
     inset: true
-    image: fondo.jpg
+    ratio: 3x2
   items:
-  - icon: sparkles
-    title: Limpieza Energética # <br> de Espacios y Cuerpos
+  - # icon: sparkles
+    image: terapias/limpieza-energetica.jpg
+    title: Limpieza <br> Energética
     anchor: Limpieza Energética en Murcia
     subtitle: de Espacios y Cuerpos
-    # link: /limpieza-energetica/
-  - icon: venus
+    link: /limpieza-energetica/
+  - # icon: venus
+    image: terapias/circulos-mujeres.jpg
     title: Círculos <br> de Mujeres
     anchor: Círculos de Mujeres en Murcia
     subtitle: ''
-    # link: /circulos-mujeres/
-    # https://youtu.be/YVWsu5OVsag
-  # - icon: hand-fist
-  #   title: Soberanía ancestral <br> femenina
-  #   subtitle: Activación de códigos
-  - icon: person-dress-simple
+    link: /circulos-mujeres/
+  - # icon: person-dress-simple
+    image: terapias/sanacion-utero.jpg
     title: Sanación <br> de Útero
     anchor: Sanación de Útero en Murcia
     subtitle: ''
-    # link: /sanacion-utero/
-    # https://youtu.be/Ho0Mj-kUdFs
-  - icon: dna
+    link: /sanacion-utero/
+  - # icon: dna
+    image: terapias/constelaciones-familiares.jpg
     title: Constelaciones Familiares
     anchor: Constelaciones Familiares Individuales en Murcia
     subtitle: Individuales
-    # link: /constelaciones-familiares/
-  - icon: eye
+    link: /constelaciones-familiares/
+  - # icon: eye
+    image: terapias/registros-akashicos.jpg
     title: Registros <br> Akáshicos
     anchor: Registros Akáshicos Online y en Murcia
     subtitle: ''
-    # link: /registros-akashicos/
+    link: /registros-akashicos/
+  - # icon: music
+    image: terapias/musica-medicina.jpg
+    title: Música <br> Medicina
+    anchor: Música Medicina en Murcia
+    subtitle: ''
+    link: /musica-medicina/
+  - # icon: coffee-bean
+    image: terapias/ceremonias-cacao.jpg
+    title: Ceremonias <br> de Cacao
+    anchor: Ceremonias de Cacao en Murcia
+    subtitle: ''
+    link: /ceremonias-cacao/
+  - # icon: hand-sparkles
+    image: terapias/activacion-codigos-luz.jpg
+    title: Activación de <br> Códigos de Luz
+    anchor: Activación de Códigos de Luz Online y en Murcia
+    link: /activacion-codigos-luz/
+  # - icon: hand-fist
+  #   title: Soberanía ancestral <br> femenina
+  #   subtitle: Activación de códigos
   # - icon: fire-flame-curved
   #   title: Lectura <br> de alma
   #   subtitle: ''
   # - icon: cards-blank
   #   title: Lectura de <br> cartas oráculo
   #   subtitle: ''
-  - icon: music
-    title: Música <br> Medicina
-    anchor: Música Medicina en Murcia
-    subtitle: ''
-    # link: /musica-medicina/
-  - icon: coffee-bean
-    title: Ceremonias <br> de Cacao
-    anchor: Ceremonias de Cacao en Murcia
-    subtitle: ''
-    # link: /ceremonias-cacao/
-    # https://youtu.be/n8HGA40cN80
-  - icon: hand-sparkles
-    title: Activación de <br> Códigos de Luz
-    anchor: Activación de Códigos de Luz Online y en Murcia
-    # link: /activacion-codigos-luz/

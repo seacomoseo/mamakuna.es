@@ -3,7 +3,7 @@ title: El amor es la cura, la medicina y el camino
 title_seo: ''
 slug: amor-cura-medicina-camino
 description: ''
-image: ''
+image: blog/amor-cura-medicina-camino.png
 categories: [general]
 tags: []
 author: admin

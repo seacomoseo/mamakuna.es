@@ -1,0 +1,97 @@
+anchor: Limpieza Energética Online y en Murcia - Mamakuna
+title: Limpieza Energética
+subtitle: de Espacios y Cuerpos
+bg: terapias/limpieza-energetica.jpg
+color: light
+gradient: white
+gradient_type: circle
+opacity: 20
+more:
+  full_screen: true
+  uppercase: false
+rows:
+- type: columns
+  design:
+    num: 5
+    # align_y: top
+    align: left
+    gap: 3
+    underline: true
+  items:
+  - span: 2
+    image: https://youtu.be/SJpnkgvYaq0#poster=poster/limpieza-energetica.jpg
+    ratio: 9x16
+  - span: 3
+    description: |
+      Tu mayor protección es ser consciente de tu propia vibración, un campo energético que vibra en amor va expandiéndose por donde quiera que vaya.
+
+      Hay veces que nos perdemos en el pensamiento que autosabotea y en la emoción dolorosa que no sabemos gestionar, así, nuestro campo electromagnético, es decir, nuestra aura, puede sufrir fisuras, por las que pueden entrar energías de baja vibración que hay en nuestro entorno.
+
+      Así mismo, hay personas que son un canal abierto, tan empáticas energéticamente, que pueden llegar a sentirse abrumadas por la cantidad de energías que son capaces de sentir en su día a día, esta sobreexposición puede provocar la pérdida de la energía originaria y la acumulación de energías externas que inconscientemente se hacen propias, lo que desemboca en un gran malestar.
+
+      La sensibilidad energética te puede llevar a sentir energías que no corresponden a este plano dimensional.
+
+      En todos los casos, las energías nos afectan por desconocimiento de nuestra vibración original y por permitir de forma inconsciente, que puedan entrar en nuestro campo áurico densidades.
+
+      Lo cierto es que; nada ni nadie tiene más poder para hacernos daño que el que nosotros y nosotras le demos, pero no siempre sabemos el gran poder que tenemos como seres humanos.
+
+      Todo en este universo tiene su función, la densidad nos enseña a descubrir nuestra esencia y nuestro poder creador de realidades a través del pensamiento, la palabra y el movimiento, la coherencia entre estas tres da lugar a una vibración impecable, sin necesidad de coraza, pues es el propio amor el que filtra y transforma todo.
+
+  - span: 5
+    description: |
+      ---
+      ## SERVICIOS
+      {.underline}
+    more:
+      align: center
+
+- type: steps
+  design:
+    border: link
+    icon_size: '' # [ 1 - 6 ]
+    title_size: '' # [ 1 - 6 ]
+    underline: true
+  items:
+  - icon: hand-sparkles
+    title: Limpieza Básica
+    subtitle: A distancia (Péndulo Hebreo)
+    description: |
+      Protocolo básico de limpieza energética.
+
+      Para enviar a Divinidad las densidades más profundas que puedan estar vibrando en tu campo electromagnético, como almas en busca de luz, conexiones con el bajo astral, parásitos astrales, egregores, mal de ojo, magias negras, ataques energéticos, enganches nocivos y toda energía negativa que te esté interfiriendo, provocando que tu vibración se debilite.
+  - icon: dna
+    title: Reconfiguración del ADN
+    subtitle: A distancia (Péndulo Hebreo)
+    description: |
+      Es una limpieza profunda para restaurar toda la energía estancada que el alma esté lista para liberar, está presente la limpieza básica más la reconfiguración que tu ser esté dispuesto a integrar en ese momento.
+
+      La realizo de madrugada, cuando el cuerpo físico está en reposo, abro cada centro energético de tu cuerpo (chakra), desde raíz hasta corona, sacando las energías densas cristalizadas y añadiendo luz, para que tus centros recuerden su memoria original y que todo lo que no vibre con la presencia de Dios Yo Soy, sea liberado y transmutado.
+
+      Además, le añado ritual con arcángeles y rezos durante toda la sesión.
+  - icon: cat
+    title: Limpieza Animal
+    subtitle: A distancia (Péndulo Hebreo)
+    description: |
+      Protocolo de limpieza y reconfiguración del ADN en animales, equilibrio de sus centros energéticos.
+  - icon: sparkles
+    title: Limpieza de Espacios, Hogares, Oficinas, Empresas etc.
+    subtitle: A distancia (Péndulo Hebreo)
+    description: |
+      Los lugares acumulan energías de todas las personas que los han transitado y todas las circunstancias que los han protagonizado, si no se limpian regularmente, la energía se va estancando y pueden crear portales negativos que debilitan la vitalidad de quienes los habitan.
+
+      Con un dibujo del plano del lugar, voy desarraigando la energía almacenada en cada estancia, la libero, irradio luz, sello y protejo.
+  - icon: drum
+    title: Limpieza Chamánica
+    subtitle: Presencial
+    description: |
+      En un espacio natural, limpio los cuerpos trabajando con los cuatros elementos, tierra, viento, agua y fuego.
+
+      Con ayuda del sonido del tambor y el canto como instrumentos terapéuticos.
+
+      Es un regalo de conexión con tu Espíritu, invocando la presencia del Gran Espíritu y con el sostén de los elementales de la Tierra.
+
+      Se pueden despertar memorias de traumas pasados listos para integrar y por lo tanto liberar, poniendo conciencia y adquiriendo la nueva configuración en tu energía.
+
+      Es un viaje a través de la presencia para volver a ti, a conectar con tu sabiduría innata.
+    more:
+      align: left

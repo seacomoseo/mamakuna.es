@@ -1,0 +1,40 @@
+anchor: Círculos de Mujeres en Murcia - Mamakuna
+bg: terapias/circulos-mujeres.jpg
+title: Círculos de Mujeres
+subtitle: en Murcia
+color: light
+gradient: white
+gradient_type: circle
+opacity: 20
+more:
+  full_screen: true
+  uppercase: false
+rows:
+- type: columns
+  design:
+    align_y: top
+    gap: 3
+    underline: true
+  items:
+  - span: 2
+    image: https://youtu.be/YVWsu5OVsag#poster=poster/circulos-mujeres.jpg
+    ratio: 9x16
+  - span: 3
+    description: |
+      Los círculos de mujeres son espacios de reunión en los que las mujeres acuden al llamado de su loba interna, para dar y recibir equitativamente, acompañando y dejándose acompañar por la red de la tribu que creamos entre todas.
+
+      > Todo lo que se genera en el círculo, se queda en el círculo, se abre espacio medicinal cargado de un profundo respeto a la ancestralidad femenina.
+
+      En el círculo todas somos iguales, cada una tiene una voz que es libre de expresar y las demás permanecemos en escucha activa, no damos consejos, no interrumpimos, no estamos pensando en lo que vamos a decir. Estamos en presencia, honrando la voz de cada hermana, abrazando el dolor de cada hermana y celebrando la alegría de cada hermana, validando y reconociendo que lo que transita la mujer que tengo a mi lado también forma parte de mí.
+
+      Se crea una sinergia que va despertando la medicina que cada una tiene, de manera muy orgánica y sutil, vamos activando la memoria de la Diosa en nuestros úteros y corazones.
+
+      > Los círculos que guío están sostenidos por la frecuencia de la Gran Madre Divina, según el tema a trabajar, se manifiesta en forma de alguna Diosa o Maestra Ascendida, Kali, Isis, Afrodita, María Magdalena, Madre María, etc.
+
+      Hay una parte de meditación en la que activamos la abundancia del útero, abriéndolo a la vida y conectando con la Tierra, confiando en la Madre para dejarnos sostener por ella.
+
+      Según el tema a profundizar, la meditación irá seguida del contacto con el cuerpo-templo a través de la danza, del canto ancestral, desbloqueando nuestra expresión, o de alguna actividad que realicemos en grupo, como tejer ojos de Dios, por ejemplo.
+
+      Finalmente, hay una parte donde integramos los nuevos códigos energéticos que se han despertado y volvemos a compartir sentires, desde el lugar de unión interna, que se ha creado con la magia de todas.
+    more:
+      align: left
