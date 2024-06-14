@@ -1,6 +1,6 @@
 logo: logo-h-alt.svg
 color: white
-screen_sticky: 600
+screen_sticky: 1140
 size_sticky: ''
 articles_sticky: false
 transparent: true
@@ -56,8 +56,8 @@ normal:
   link: /#por-que-conmigo
 - label: Eventos
   link: /#eventos
-# - label: Testimonios
-#   link: /#testimonios
+- label: Testimonios
+  link: /#testimonios
 - label: Contacto
   link: /#contacto
   button: link

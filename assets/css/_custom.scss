@@ -13,15 +13,33 @@ body {
 }
 
 // Header
-#body-inicio #header {
-  @mixin show-from($delay) {
-    animation: show-from .5s (.625 + .125s * $delay) both;
+@keyframes logo-intro {
+  0%,
+  75% {
+    transform:
+      translateX(var(--logo-x, 0em))
+      translateY(calc(50vh - 50% - var(--logo-y, -4em)))
+      scale(var(--logo-z, 1.25));
   }
-  .section__title {       @include show-from(1); }
-  .subtitle {             @include show-from(2); }
-  .description p {        @include show-from(3); }
-  .description .buttons { @include show-from(4); }
-  .column--item-2 {       @include show-from(5); }
+}
+#body-inicio #header {
+  .column--item-1 {
+      animation: logo-intro 1.75s 0s both;
+      @media (min-width: $screen-xl) {
+        --logo-x: 13em;
+        --logo-y: 1em;
+        --logo-z: 2;
+      }
+  }
+  @mixin show-from($delay) {
+    animation: show-from .5s (1 + .125s * $delay) both;
+  }
+  .section__title {       @include show-from(-1); }
+  .underline:after {      @include show-from(5); }
+  .subtitle {             @include show-from(6); }
+  .description p {        @include show-from(7); }
+  .description .buttons { @include show-from(8); }
+  .column--item-2 {       @include show-from(9); }
   .underline {
     font-size: 3em;
   }
