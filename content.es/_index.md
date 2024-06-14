@@ -18,7 +18,7 @@ sections:
   - sobre-mi-mas
 - file: por-que-conmigo
 - file: eventos
-# - file: testimonios
+- file: testimonios
 - file: contacto
 - file: blog
 ---
