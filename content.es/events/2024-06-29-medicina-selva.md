@@ -11,7 +11,7 @@ toc: false
 draft: false
 noindex: false
 date_ini: 2024-06-29T19:00:00
-date_end: 2024-06-29T20:00:00
+date_end: 2024-06-29T22:00:00
 location: El Templo de la Diosa
 address: El Mirador, San Pedro del Pinatar
 translationKey: medicina-selva.jpg
