@@ -40,7 +40,7 @@ Sábado 29 de Junio 19:00-22:00
 
 ## ¿Dónde?
 
-En "El templo de la Diosa" - Casas del Aljibe, el Mirador, San Pedro del Pinatar  (Murcia)
+En "El templo de la Diosa" - Casas del Aljibe, el Mirador, San Pedro del Pinatar  (Alicante)
 
 ## Aportación
 

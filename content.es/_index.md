@@ -1,6 +1,6 @@
 ---
 title: Inicio
-title_seo: Mamakuna - Terapeuta Holística en Murcia
+title_seo: Mamakuna - Terapeuta Holística en Alicante
 slug: inicio
 description: llll➤ Sanación a través de diferentes terapias energéticas alternativas ✅ por Afree.
 image: logo.png

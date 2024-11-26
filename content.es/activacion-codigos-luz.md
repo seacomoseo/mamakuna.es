@@ -1,6 +1,6 @@
 ---
 title: Activación de Códigos de Luz
-title_seo: Activación de Códigos de Luz Online y en Murcia - Mamakuna
+title_seo: Activación de Códigos de Luz Online y en Alicante - Mamakuna
 slug: activacion-codigos-luz
 description: llll➤ Sanación a través de activación de códigos de luz de espacios y cuerpos ✅ por Afree.
 image: terapias/activacion-codigos-luz.jpg

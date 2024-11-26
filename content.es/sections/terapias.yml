@@ -13,49 +13,49 @@ rows:
   - # icon: sparkles
     image: terapias/limpieza-energetica.jpg
     title: Limpieza <br> Energética
-    anchor: Limpieza Energética en Murcia
+    anchor: Limpieza Energética en Alicante
     subtitle: de Espacios y Cuerpos
     link: /limpieza-energetica/
   - # icon: venus
     image: terapias/circulos-mujeres.jpg
     title: Círculos <br> de Mujeres
-    anchor: Círculos de Mujeres en Murcia
+    anchor: Círculos de Mujeres en Alicante
     subtitle: ''
     link: /circulos-mujeres/
   - # icon: person-dress-simple
     image: terapias/sanacion-utero.jpg
     title: Sanación <br> de Útero
-    anchor: Sanación de Útero en Murcia
+    anchor: Sanación de Útero en Alicante
     subtitle: ''
     link: /sanacion-utero/
   - # icon: dna
     image: terapias/constelaciones-familiares.jpg
     title: Constelaciones Familiares
-    anchor: Constelaciones Familiares Individuales en Murcia
+    anchor: Constelaciones Familiares Individuales en Alicante
     subtitle: Individuales
     link: /constelaciones-familiares/
   - # icon: eye
     image: terapias/registros-akashicos.jpg
     title: Registros <br> Akáshicos
-    anchor: Registros Akáshicos Online y en Murcia
+    anchor: Registros Akáshicos Online y en Alicante
     subtitle: ''
     link: /registros-akashicos/
   - # icon: music
     image: terapias/musica-medicina.jpg
     title: Música <br> Medicina
-    anchor: Música Medicina en Murcia
+    anchor: Música Medicina en Alicante
     subtitle: ''
     link: /musica-medicina/
   - # icon: coffee-bean
     image: terapias/ceremonias-cacao.jpg
     title: Ceremonias <br> de Cacao
-    anchor: Ceremonias de Cacao en Murcia
+    anchor: Ceremonias de Cacao en Alicante
     subtitle: ''
     link: /ceremonias-cacao/
   - # icon: hand-sparkles
     image: terapias/activacion-codigos-luz.jpg
     title: Activación de <br> Códigos de Luz
-    anchor: Activación de Códigos de Luz Online y en Murcia
+    anchor: Activación de Códigos de Luz Online y en Alicante
     link: /activacion-codigos-luz/
   # - icon: hand-fist
   #   title: Soberanía ancestral <br> femenina
