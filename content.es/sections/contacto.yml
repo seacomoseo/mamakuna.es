@@ -11,12 +11,12 @@ rows:
   - type: address
     active: false
     name: Mamakuna - Terapeuta Holística
-    streetAddress: Plaça Jaume I
-    postalCode: '03700'
-    addressLocality: Denia
+    streetAddress: Valle de Gallinera
+    postalCode: '03787'
+    addressLocality: La Vall de Gallinera
     addressRegion: Alicante
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[0.103156,38.8353770]}'
+    coordinates: '{"type":"Point","coordinates":[-0.248589,38.8213580]}'
   map:
     active: false
     link: https://g.page/r/Cem6Zye01vC0EBM
