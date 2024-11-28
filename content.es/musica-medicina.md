@@ -1,6 +1,6 @@
 ---
 title: Música Medicina
-title_seo: Música Medicina en Alicante - Mamakuna
+title_seo: Música Medicina en Murcia - Mamakuna
 slug: musica-medicina
 description: llll➤ Sanación a través de música medicina ✅ por Afree.
 image: terapias/musica-medicina.jpg

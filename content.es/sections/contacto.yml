@@ -11,12 +11,12 @@ rows:
   - type: address
     active: false
     name: Mamakuna - Terapeuta Holística
-    streetAddress: Valle de Gallinera
-    postalCode: '03787'
-    addressLocality: La Vall de Gallinera
-    addressRegion: Alicante
+    streetAddress: Ronda de Levante, 1
+    postalCode: '30008'
+    addressLocality: Murcia
+    addressRegion: Murcia
     addressCountry: España
-    coordinates: '{"type":"Point","coordinates":[-0.248589,38.8213580]}'
+    coordinates: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
   map:
     active: false
     link: https://g.page/r/Cem6Zye01vC0EBM

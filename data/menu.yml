@@ -22,7 +22,7 @@ callnow_buttons:
 normal:
 - label: Inicio
   link: /
-  anchor: Mamakuna - Terapeuta Holística en Alicante
+  anchor: Mamakuna - Terapeuta Holística en Murcia
 - label: Terapias
   link: /#terapias
   items:
@@ -30,25 +30,25 @@ normal:
     anchor: Limpieza Energética de Cuerpos Online
     link: /limpieza-energetica/
   - label: Círculos de Mujeres
-    anchor: Círculos de Mujeres en Alicante
+    anchor: Círculos de Mujeres en Murcia
     link: /circulos-mujeres/
   - label: Sanación de Útero
-    anchor: Sanación de Útero en Alicante
+    anchor: Sanación de Útero en Murcia
     link: /sanacion-utero/
   - label: Constelaciones Familiares Individuales
-    anchor: Constelaciones Familiares Individuales en Alicante
+    anchor: Constelaciones Familiares Individuales en Murcia
     link: /constelaciones-familiares/
   - label: Registros Akáshicos
-    anchor: Registros Akáshicos Online y en Alicante
+    anchor: Registros Akáshicos Online y en Murcia
     link: /registros-akashicos/
   - label: Música Medicina
-    anchor: Música Medicina en Alicante
+    anchor: Música Medicina en Murcia
     link: /musica-medicina/
   - label: Ceremonias de Cacao
-    anchor: Ceremonias de Cacao en Alicante
+    anchor: Ceremonias de Cacao en Murcia
     link: /ceremonias-cacao/
   - label: Activación de Códigos de Luz
-    anchor: Activación de Códigos de Luz Online y en Alicante
+    anchor: Activación de Códigos de Luz Online y en Murcia
     link: /activacion-codigos-luz/
 - label: Sobre mi
   link: /#sobre-mi
