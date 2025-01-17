@@ -53,10 +53,15 @@ rows:
     subtitle: ''
     link: /ceremonias-cacao/
   - # icon: hand-sparkles
-    image: terapias/activacion-codigos-luz.jpg
-    title: Activación de <br> Códigos de Luz
-    anchor: Activación de Códigos de Luz Online y en Murcia
-    link: /activacion-codigos-luz/
+    image: terapias/reiki.jpg
+    title: Reiki
+    anchor: Reiki Online y en Murcia
+    link: /reiki/
+  # - # icon: hand-sparkles
+  #   image: terapias/activacion-codigos-luz.jpg
+  #   title: Activación de <br> Códigos de Luz
+  #   anchor: Activación de Códigos de Luz Online y en Murcia
+  #   link: /activacion-codigos-luz/
   # - icon: hand-fist
   #   title: Soberanía ancestral <br> femenina
   #   subtitle: Activación de códigos

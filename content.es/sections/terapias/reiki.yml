@@ -1,0 +1,29 @@
+anchor: Reiki Online y en Murcia - Mamakuna
+title: Reiki
+subtitle: Online y en Murcia
+bg: terapias/reiki.jpg
+color: light
+gradient: white
+gradient_type: circle
+opacity: 20
+size: md
+more:
+  full_screen: true
+  uppercase: false
+rows:
+- type: columns
+  design:
+    gap: 3
+    underline: true
+  items:
+  - span: 2
+    image: fotos/06.jpg
+  - span: 3
+    description: |
+      Canalizo la energía Crística, el Cristo, Yeshua, Jesús. Su frecuencia es la del amor incondicional, su color el blanco, la sensación que deja en el cuerpo es un dulce abrazo, el recuerdo de que no estás solo/a y que nunca lo has estado.
+
+      La sesión se realiza en camilla, en un estado de relajación y apertura, la frecuencia crística va entrando a través de mis manos (no es necesario tocar) en cada uno de los centros energéticos del cuerpo, desde Chakra raiz hasta Chakra corona, recargando todo el campo electromagnético de pura luz, restaurando el tubo pránico y realieando los centros de energía.
+
+      Te sentirás renovado/a, confiado, conectado contigo y con tu verdad interna.
+    more:
+      align: left
