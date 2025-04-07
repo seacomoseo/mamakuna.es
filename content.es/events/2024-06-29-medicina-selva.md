@@ -54,7 +54,7 @@ Estaré sosteniendo la energía grupal. El día de antes haré limpieza energét
 
 🦅 Si tu alma siente el llamado haz clic en el enlace 🦅
 
-[btn-whatsapp icon-whatsapp Grupo de WhatsApp](https://chat.whatsapp.com/F5vAYe3rpYz1LhlbVl7xnk "noindex")
+[btn icon-whatsapp Grupo de WhatsApp](https://chat.whatsapp.com/F5vAYe3rpYz1LhlbVl7xnk "[noindex whatsapp]")
 
 
 Amor & Bendición

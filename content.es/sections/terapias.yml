@@ -47,11 +47,11 @@ rows:
     subtitle: ''
     link: /musica-medicina/
   - # icon: coffee-bean
-    image: terapias/ceremonias-cacao.jpg
-    title: Ceremonias <br> de Cacao
-    anchor: Ceremonias de Cacao en Murcia
-    subtitle: ''
-    link: /ceremonias-cacao/
+    # image: terapias/ceremonias-cacao.jpg
+    # title: Ceremonias <br> de Cacao
+    # anchor: Ceremonias de Cacao en Murcia
+    # subtitle: ''
+    # link: /ceremonias-cacao/
   - # icon: hand-sparkles
     image: terapias/reiki.jpg
     title: Reiki
