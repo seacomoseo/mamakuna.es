@@ -14,7 +14,7 @@ date_ini: 2024-06-02T17:00:00
 date_end: 2024-06-02T20:00:00
 location: Pinar de Campoverde
 address: ''
-translationKey: ceremonia-bendicion-utero-canto-sagrado.jpg
+translationKey: ceremonia-bendicion-utero-canto-sagrado
 ---
 
 > Despierta la energía sagrada femenina
