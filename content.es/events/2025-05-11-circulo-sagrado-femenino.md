@@ -12,7 +12,7 @@ draft: false
 noindex: false
 date_ini: 2025-05-11T11:00:00
 date_end: 2025-05-11T13:00:00
-location: Murcia
+location: ''
 address: Murcia
 translationKey: circulo-sagrado-femenino
 ---
