@@ -33,14 +33,6 @@ rows:
 
       El desequilibrio de una energía también desequilibra la otra, la condena de la energía femenina supuso la supremacía de la masculina, tanto en hombres como en mujeres, así, el mundo se desconectó de la sensibilidad, de la escucha de sus propios cuerpos, de la honra de sus tiempos y del mismo amor.
 
-  - image: fotos/11.jpg
-    ratio: 9x16
-
-  # - span: 3
-  #   title: Bendición de Útero
-  #   more:
-  #     align: center
-
   - title: Bendición de Útero
     description: |
       Existe una relación directa entre el útero y las creaciones que eres capaz de materializar en el mundo. El útero es un portal, por el que las almas encarnan en la materia interna que es capaz de generar tu cuerpo. El útero representa la cueva, la morada, el hogar, el refugio en el que poder descansar. También representa el santo grial, el cáliz, el portal de acceso a las aguas sagradas de la sabiduría infinita.
@@ -48,20 +40,6 @@ rows:
       El útero es un lugar oscuro y profundo, que alberga la magia y el potencial para crear la vida que deseas, para parir tu arte, tu canto, tu proyecto, tu empresa y/o tu bebé.
 
       > El poder creador de toda fémina se encuentra en el útero
-
-  - description: |
-      > La fuerza de lo invisible es la fuerza del femenino
-
-      La violencia que ha sufrido la mujer dentro del sistema patriarcal ha provocado la desconexión con su divino femenino, con la Diosa y con el poder que por derecho le corresponde, que es ser guardiana de la sabiduría y creadora de vida. Era tal la conexión con Divinidad y la profundidad a la que llegaban las mujeres que sabían de su poder; que eran canales directos entre el Cielo y la Tierra, eran curanderas, sacerdotisas, poderosas alquimistas, chamanas, matronas, grandes sostenedoras de la energía.
-
-      El miedo a su grandeza dio lugar a su persecución, teniendo las mujeres que adaptarse a unos ritmos que no les correspondían, a unos mandatos que las atrapaban y a ceder todo su poder creador para sostener la jaula fonde fueron encerradas.
-
-  - description: |
-      > Tenemos un gran poder para elegir el amor
-
-      Desde el momento del destierro femenino, tanto las mujeres como la madre Tierra han sufrido la violación de sus territorios, la censura y la muerte. Esto generó una brecha en la memoria colectiva, memoria guardada en los úteros de las mujeres tras tantos años de clausura y silencio.
-
-      > La memoria nunca se pierde, los úteros guardan también los recuerdos de la soberanía femenina, guardan los saberes de la libertad, guardan la esencia de la mujer salvaje conectada con la tierra y las estrellas.
 
 - type: columns
   design:
@@ -71,6 +49,22 @@ rows:
     gap: 3
     underline: true
   items:
+
+  - description: |
+      La violencia que ha sufrido la mujer dentro del sistema patriarcal ha provocado la desconexión con su divino femenino, con la Diosa y con el poder que por derecho le corresponde, que es ser guardiana de la sabiduría y creadora de vida. Era tal la conexión con Divinidad y la profundidad a la que llegaban las mujeres que sabían de su poder; que eran canales directos entre el Cielo y la Tierra, eran curanderas, sacerdotisas, poderosas alquimistas, chamanas, matronas, grandes sostenedoras de la energía.
+
+      > La fuerza de lo invisible es la fuerza del femenino
+
+  - span: 2
+    description: |
+      El miedo a su grandeza dio lugar a su persecución, teniendo las mujeres que adaptarse a unos ritmos que no les correspondían, a unos mandatos que las atrapaban y a ceder todo su poder creador para sostener la jaula fonde fueron encerradas.
+
+      > Tenemos un gran poder para elegir el amor
+
+      Desde el momento del destierro femenino, tanto las mujeres como la madre Tierra han sufrido la violación de sus territorios, la censura y la muerte. Esto generó una brecha en la memoria colectiva, memoria guardada en los úteros de las mujeres tras tantos años de clausura y silencio.
+
+      > La memoria nunca se pierde, los úteros guardan también los recuerdos de la soberanía femenina, guardan los saberes de la libertad, guardan la esencia de la mujer salvaje conectada con la tierra y las estrellas.
+
   - image: fotos/09.jpg
 
   - span: 2

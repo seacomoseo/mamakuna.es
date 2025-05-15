@@ -38,20 +38,20 @@ rows:
     more:
       align: left
 
-- type: columns
-  design:
-    align_y: center
-    align: left
-    gap: 3
-    underline: true
-  items:
-  - span: 2
-    image: fotos/08.jpg
-  - span: 3
-    title: Servicios
-    subtitle: Online y Presencial
-    description: |
-      - Lectura de Alma
-      - Limpieza energética básica + sesión de registros + lectura de cartas oráculo
-      - Tutoría de activación del canal de los registros + ejercicios prácticos
-      - Comunicación animal
+# - type: columns
+#   design:
+#     align_y: center
+#     align: left
+#     gap: 3
+#     underline: true
+#   items:
+#   - span: 2
+#     image: fotos/08.jpg
+#   - span: 3
+#     title: Servicios
+#     subtitle: Online y Presencial
+#     description: |
+#       - Lectura de Alma
+#       - Limpieza energética básica + sesión de registros + lectura de cartas oráculo
+#       - Tutoría de activación del canal de los registros + ejercicios prácticos
+#       - Comunicación animal
