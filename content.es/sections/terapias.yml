@@ -28,24 +28,24 @@ rows:
     anchor: Sanación de Útero en Murcia
     subtitle: ''
     link: /sanacion-utero/
-  - # icon: dna
-    image: terapias/constelaciones-familiares.jpg
-    title: Constelaciones Familiares
-    anchor: Constelaciones Familiares Individuales en Murcia
-    subtitle: Individuales
-    link: /constelaciones-familiares/
-  - # icon: eye
-    image: terapias/registros-akashicos.jpg
-    title: Registros <br> Akáshicos
-    anchor: Registros Akáshicos Online y en Murcia
-    subtitle: ''
-    link: /registros-akashicos/
-  - # icon: music
-    image: terapias/musica-medicina.jpg
-    title: Música <br> Medicina
-    anchor: Música Medicina en Murcia
-    subtitle: ''
-    link: /musica-medicina/
+  # - # icon: dna
+  #   image: terapias/constelaciones-familiares.jpg
+  #   title: Constelaciones Familiares
+  #   anchor: Constelaciones Familiares Individuales en Murcia
+  #   subtitle: Individuales
+  #   link: /constelaciones-familiares/
+  # - # icon: eye
+  #   image: terapias/registros-akashicos.jpg
+  #   title: Registros <br> Akáshicos
+  #   anchor: Registros Akáshicos Online y en Murcia
+  #   subtitle: ''
+  #   link: /registros-akashicos/
+  # - # icon: music
+  #   image: terapias/musica-medicina.jpg
+  #   title: Música <br> Medicina
+  #   anchor: Música Medicina en Murcia
+  #   subtitle: ''
+  #   link: /musica-medicina/
   # - # icon: coffee-bean
   #   image: terapias/ceremonias-cacao.jpg
   #   title: Ceremonias <br> de Cacao
@@ -54,7 +54,7 @@ rows:
   #   link: /ceremonias-cacao/
   - # icon: hand-sparkles
     image: terapias/reiki.jpg
-    title: Reiki
+    title: Reiki Crístico
     anchor: Reiki Online y en Murcia
     link: /reiki/
   # - # icon: hand-sparkles

@@ -4,7 +4,7 @@ title_seo: Música Medicina en Murcia - Mamakuna
 slug: musica-medicina
 description: llll➤ Sanación a través de música medicina ✅ por Afree.
 image: terapias/musica-medicina.jpg
-draft: false
+draft: true
 noindex: true
 translationKey: musica-medicina
 sections:

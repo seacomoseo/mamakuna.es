@@ -35,21 +35,24 @@ normal:
   - label: Sanación de Útero
     anchor: Sanación de Útero en Murcia
     link: /sanacion-utero/
-  - label: Constelaciones Familiares Individuales
-    anchor: Constelaciones Familiares Individuales en Murcia
-    link: /constelaciones-familiares/
-  - label: Registros Akáshicos
-    anchor: Registros Akáshicos Online y en Murcia
-    link: /registros-akashicos/
-  - label: Música Medicina
-    anchor: Música Medicina en Murcia
-    link: /musica-medicina/
-  - label: Ceremonias de Cacao
-    anchor: Ceremonias de Cacao en Murcia
-    link: /ceremonias-cacao/
-  - label: Activación de Códigos de Luz
-    anchor: Activación de Códigos de Luz Online y en Murcia
-    link: /activacion-codigos-luz/
+  # - label: Constelaciones Familiares Individuales
+  #   anchor: Constelaciones Familiares Individuales en Murcia
+  #   link: /constelaciones-familiares/
+  # - label: Registros Akáshicos
+  #   anchor: Registros Akáshicos Online y en Murcia
+  #   link: /registros-akashicos/
+  # - label: Música Medicina
+  #   anchor: Música Medicina en Murcia
+  #   link: /musica-medicina/
+  # - label: Ceremonias de Cacao
+  #   anchor: Ceremonias de Cacao en Murcia
+  #   link: /ceremonias-cacao/
+  # - label: Activación de Códigos de Luz
+  #   anchor: Activación de Códigos de Luz Online y en Murcia
+  #   link: /activacion-codigos-luz/
+  - label: Reiki Crístico
+    anchor: Reiki Online y en Murcia
+    link: /reiki/
 - label: Sobre mi
   link: /#sobre-mi
 - label: ¿Por qué conmigo?

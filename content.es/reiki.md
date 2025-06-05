@@ -1,8 +1,8 @@
 ---
-title: Reiki
-title_seo: Reiki Online y en Murcia - Mamakuna
+title: Reiki Crístico
+title_seo: Reiki Crístico Online y en Murcia - Mamakuna
 slug: reiki
-description: llll➤ Sanación a través de reiki ✅ por Afree.
+description: llll➤ Sanación a través de Reiki Crístico ✅ por Afree.
 image: terapias/reiki.jpg
 draft: false
 noindex: false
