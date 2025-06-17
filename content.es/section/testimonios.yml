@@ -3,7 +3,7 @@ title: Testimonios
 subtitle: Dicen de mi...
 boxes:
 - review:
-    color: white
+    color: similar
     slider: true
     interval: 8
     cols: 3

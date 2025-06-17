@@ -17,11 +17,11 @@ tpl:
   - file: sobre-mi
     modals:
     - file: sobre-mi-mas
-  - file: por-que-conmigo
-  - file: eventos
   - file: testimonios
+  - file: por-que-conmigo
   - file: contacto
-  - file: blog
+  # - file: eventos
+  # - file: blog
 base: organization
 organization:
   types:
@@ -81,19 +81,19 @@ organization:
   prices: €€
   services:
   - title: Limpieza Energética
-    description: ___________________
+    description: Purifica tu aura y tu hogar con limpieza energética presencial u online en Murcia. Péndulo hebreo, chamanismo y guía de autocuidado.
     area: Murcia
     url: /limpieza-energetica/
   - title: Círculos de Mujeres
-    description: ___________________
+    description: Comparte meditación, danza y palabra en nuestros círculos de mujeres en Murcia. Recupera hermandad femenina en un espacio seguro.
     area: Murcia
     url: /circulos-mujeres/
   - title: Sanación de Útero
-    description: ___________________
+    description: Libera memorias y despierta tu energía creadora con sanación y bendición uterina en Murcia. Masaje, conexión divina y placer femenino.
     area: Murcia
     url: /sanacion-utero/
   - title: Reiki
-    description: ___________________
+    description: Reiki Crístico presencial u online en Murcia. Amor incondicional que alinea tus chakras y eleva tu energía.
     area: Murcia y Online
     url: /reiki/
 ---

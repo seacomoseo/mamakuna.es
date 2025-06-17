@@ -1,8 +1,8 @@
 ---
 title: Sanación de Útero
-seo: Sanación de Útero en Murcia - Mamakuna
+seo: Sanación y Bendición de Útero en Murcia | Terapia Femenina Mamakuna
 slug: sanacion-utero
-description: llll➤ Sanación a través de sanación de útero ✅ por Afree.
+description: Libera memorias y despierta tu energía creadora con sanación y bendición uterina en Murcia. Masaje, conexión divina y placer femenino. Reserva ahora.
 image: terapias/sanacion-utero.jpg
 draft: false
 noindex: false

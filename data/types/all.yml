@@ -36,17 +36,21 @@ tpl:
         link: /#sobre-mi
       - label: ¿Por qué conmigo?
         link: /#por-que-conmigo
-      - label: Eventos
-        link: /#eventos
       - label: Testimonios
         link: /#testimonios
       - label: Contacto
         link: /#contacto
         button: cta
+      - label: Eventos
+        link: /eventos/
       - label: Blog
-        link: /#blog
+        link: /blog/
   callnow:
-    show: auto
+    show: items
+    es:
+    - type: whatsapp
+      label: 605 38 01 98
+      button: cta
   section:
   - size: sm
   sections:

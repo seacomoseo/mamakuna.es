@@ -1,8 +1,8 @@
 ---
 title: Limpieza Energética
-seo: Limpieza Energética Online y en Murcia - Mamakuna
+seo: Limpieza Energética de Cuerpos y Espacios en Murcia | Mamakuna
 slug: limpieza-energetica
-description: llll➤ Sanación a través de limpieza energética de espacios y cuerpos ✅ por Afree.
+description: ll➤ Purifica tu aura y tu hogar con limpieza energética presencial u online en Murcia. Péndulo hebreo, chamanismo y guía de autocuidado. Reserva ahora.
 image: terapias/limpieza-energetica.jpg
 draft: false
 noindex: false

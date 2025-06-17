@@ -1,8 +1,8 @@
 ---
-title: Círculos de Mujeres
-seo: Círculos de Mujeres en Murcia - Mamakuna
 slug: circulos-mujeres
-description: llll➤ Sanación a través de círculos de mujeres ✅ por Afree.
+title: Círculos de Mujeres
+seo: Círculos de Mujeres en Murcia | Hermandad Femenina con Mamakuna
+description: llll➤ Comparte meditación, danza y palabra en nuestros círculos de mujeres en Murcia. Recupera hermandad femenina en un espacio seguro. Únete.
 image: terapias/circulos-mujeres.jpg
 draft: false
 noindex: false
