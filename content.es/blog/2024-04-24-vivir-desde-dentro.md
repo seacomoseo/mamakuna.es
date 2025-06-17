@@ -1,12 +1,9 @@
 ---
-title: Vivir desde dentro
-title_seo: ''
 slug: vivir-desde-dentro
+title: Vivir desde dentro
+seo: ''
 description: ''
 image: blog/vivir-desde-dentro.jpg
-categories: [general]
-tags: []
-author: admin
 toc: false
 draft: false
 noindex: false

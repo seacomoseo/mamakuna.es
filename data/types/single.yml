@@ -1,0 +1,33 @@
+title: Únicas
+order: 0
+base: single
+tpl:
+  menu:
+    size: lg
+    sticky: auto
+  section:
+  - size: ''
+    color: light
+    parallax: fix
+    alpha: 0.7
+    uppercase: true
+    underline: true
+    div: brush
+    div_y: false
+  - div_y: true
+    color: white
+  modal:
+    color: white
+    uppercase: true
+    underline: true
+  list:
+    cols: 3
+    color: black
+    card: true
+    shade: false
+    icon: hide
+    align: ''
+    md: hide
+    button: hide
+    underline: true
+    hs: 3

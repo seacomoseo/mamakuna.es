@@ -1,0 +1,9 @@
+name: Eventos
+title: Eventos
+subtitle: Calendario
+max: 12
+list:
+  type: event
+box:
+  cols: 4
+  slider: true

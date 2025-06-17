@@ -1,35 +1,11 @@
 baseURL: https://mamakuna.es
-# Paginate: 24
 buildFuture: true
 theme: [sansoul]
 params:
-  git_url: https://github.com/seacomoseo/mamakuna.es
-  netlify_name: mamakuna
+  domain: mamakuna.es
+  name: mamakuna
   netlify_id: 5dcabfc1-fddb-46d7-9689-4e97c0b98430
-  hook: NjYxN2NhMzYzODA5MjI4MTZlYmE0NzMyCg==
+  netlify_hook: NjYxN2NhMzYzODA5MjI4MTZlYmE0NzMyCg==
+  cloudflare_id: 
   drive_link: https://drive.google.com/file/d/1QEBULcpW5tI-KXQwrvIjOjArWkgTyCfi
   drive_mails: afreesky7@gmail.com
-defaultContentLanguage: es
-disableLanguages: [en,fr]
-languages:
-  es:
-    # paginatePath: pagina
-    permalinks:
-      page:
-        pages: :slug
-        blog: :slug
-        events: evento/:year/:month/:day/:slug
-        products: producto/:slug
-        categories: categoria/:slug
-        tags: etiqueta/:slug
-        authors: autor/:slug
-        custom: :slug
-      section:
-        pages: paginas
-        blog: blog
-        events: eventos
-        products: productos
-        categories: categorias
-        tags: etiquetas
-        authors: autores
-        custom: personalizadas

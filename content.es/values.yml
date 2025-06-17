@@ -1,0 +1,15 @@
+footer:
+  div: taj-mahal
+  div_y: false
+  space: 2
+  social:
+  # - link: https://www.instagram.com/afreeancestral/
+  - link: https://g.page/r/Cem6Zye01vC0EBM
+  - link: https://www.youtube.com/@shalom.mamakuna
+  md: |
+    - :copyright:      {{< internal-link index >}}
+    - :scale-balanced: {{< internal-link legal >}}
+    - :shield-keyhole: {{< internal-link privacy >}}
+    - :cookie-bite:    {{< internal-link cookies >}}
+    - :seacomoseo:     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

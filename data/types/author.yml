@@ -1,0 +1,12 @@
+title: Autores
+base: author
+tax_of:
+- name: blog
+  order: 1
+  schema: author
+- name: event
+  order: 2
+  schema: author
+- name: single
+  order: 3
+  schema: author

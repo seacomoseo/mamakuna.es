@@ -1,0 +1,26 @@
+name: Header
+color: light
+fade: white
+fade_type: circle
+bg: fondo.jpg
+size: md
+full: true
+pt: 2
+hanchor: Mamakuna - Terapeuta Holística en Murcia
+alpha: 0.8
+box:
+  align_y: center
+  gap: 3
+  underline: true
+  cols: 2
+boxes:
+- image: base/icon-a.svg
+  ratio: 3/2
+  title: MAMAKUNA
+  subtitle: Encuentros con Divinidad
+  md: |
+    Amor como medicina
+
+    [[:plus: Más]](#terapias)
+- image: https://youtu.be/hdZDsqlZdS8 #poster=fotos/afree-aparece.jpg
+  ratio: 1.2

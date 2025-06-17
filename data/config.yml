@@ -1,44 +1,16 @@
-title: Mamakuna
-description: Sanación a través de diferentes terapias energéticas alternativas
-logo: logo.png
-legal_name: ''
-legal_dni: ''
-legal_email: ''
-legal_location: ''
-country: España
-location_type:
-- LocalBusiness
-- Organization
-alternate_name:
-- Mamakuna - Terapeuta Holística
-- Mamakuna - Terapeuta Holística en Murcia
-- Mamakuna Soul
-- Afree Mamakuna
-price_range: €€
-google_analytics: G-GB9CWTTV7N
-google_site_verification: ''
-google_file_verification: google7467d923cbb3eb4c.html
-disqus: ''
-cookies_legal: false
-analytics_pagespeed: true
-process_all_images: false
-cms: true
-cms_editorial_workflow: false
-development: false
-custom_code:
-  html_head:
-    code: ''
-    lang: html
-  html_body:
-    code: ''
-    lang: html
-  css:
-    code: ''
-  js:
-    code: ''
-    lang: javascript
-social:
-- link: https://www.instagram.com/afreeancestral/
-- link: https://g.page/r/Cem6Zye01vC0EBM
-- link: https://www.youtube.com/@shalom.mamakuna
-
+langs:
+- lang: es
+  title: Mamakuna
+  description: Sanación a través de diferentes terapias energéticas alternativas
+  google_file_verification: google7467d923cbb3eb4c.html
+defaults:
+- name: author
+  value: admin
+  type: slice
+  path:
+  - /
+  - /single/*
+  - /blog/*
+  - /event/*
+others:
+  show: true

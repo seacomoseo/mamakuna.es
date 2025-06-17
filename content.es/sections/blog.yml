@@ -1,8 +1,0 @@
-title: Blog
-subtitle: Canalizaciones
-rows:
-- type: articles
-  kind: blog
-  max: 12
-  design:
-    slider: true

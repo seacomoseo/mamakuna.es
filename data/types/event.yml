@@ -1,0 +1,22 @@
+title: Eventos
+base: event
+order: 4
+related: true
+tpl:
+  list:
+    card: true
+    color: black
+    rate: 3/4
+    align: left
+    shade: false
+    price: hide
+    md: hide
+    button: hide
+    tags:
+    - type: date
+    - type: param
+      param: address.name
+      icon: house
+    - type: param
+      param: address.locality
+      icon: location-dot

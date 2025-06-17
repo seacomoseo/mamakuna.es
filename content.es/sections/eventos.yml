@@ -1,9 +1,0 @@
-title: Eventos
-subtitle: Calendario
-rows:
-- type: articles
-  kind: events
-  max: 12
-  design:
-    slider: true
-    hide_description: true
