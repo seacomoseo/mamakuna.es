@@ -1,8 +1,8 @@
 ---
 title: Inicio
-seo: Mamakuna - Terapeuta Holística en Murcia
+seo: Mamakuna - Terapias Energéticas y Sanación Femenina en Murcia
 slug: inicio
-description: llll➤ Sanación a través de diferentes terapias energéticas alternativas ✅ por Afree.
+description: 'llll➤ Descubre Mamakuna: limpieza energética, círculos de mujeres, sanación de útero y reiki crístico en Murcia. Conecta con tu esencia y reserva ahora.'
 image: base/logo.png
 draft: false
 noindex: false
