@@ -15,12 +15,12 @@ body {
 }
 #body-home #header {
   .box--1 {
-      animation: logo-intro 1.75s 0s both;
-      @media (min-width: $viewport-lg) {
-        --logo-x: 13em;
-        --logo-y: 1em;
-        --logo-z: 2;
-      }
+    animation: logo-intro 1.75s 0s both;
+    @media (min-width: $viewport-lg) {
+      --logo-x: 17.5em;
+      --logo-y: 1em;
+      --logo-z: 2;
+    }
   }
   @mixin show-from($delay) {
     animation: show-from .5s (1 + .125s * $delay) both;

@@ -8,14 +8,15 @@ full: true
 pt: 2
 hanchor: Mamakuna - Terapeuta Holística en Murcia
 alpha: 0.8
-div: brush
+div: mountain
 box:
-  align_y: center
+  cols: 1
   gap: 3
   underline: true
-  cols: 2
+  align_y: center
 boxes:
-- image: base/icon-a.svg
+- fit: .4
+  image: base/icon-a.svg
   ratio: 3/2
   title: MAMAKUNA
   subtitle: Encuentros con Divinidad
@@ -23,5 +24,7 @@ boxes:
     Amor como medicina
 
     [[:plus: Más]](#terapias)
-- image: https://youtu.be/hdZDsqlZdS8#poster=fotos/afree-aparece.jpg
-  ratio: 1.2
+- fit: .6
+  image: https://youtu.be/hdZDsqlZdS8#poster=fotos/afree-aparece-poster.jpg
+  # ratio: 2/3
+  ratio: 6/5
