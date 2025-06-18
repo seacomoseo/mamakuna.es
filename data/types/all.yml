@@ -34,10 +34,10 @@ tpl:
           link: /reiki/
       - label: Sobre mi
         link: /#sobre-mi
-      - label: ¿Por qué conmigo?
-        link: /#por-que-conmigo
       - label: Testimonios
         link: /#testimonios
+      - label: ¿Por qué conmigo?
+        link: /#por-que-conmigo
       - label: Contacto
         link: /#contacto
         button: cta
