@@ -11,8 +11,8 @@ tpl:
   menu:
     logo: false
   sections:
-  - file: header
-  - file: header-next
+  - file: _header
+  - file: _header-next
   - file: terapias
   - file: sobre-mi
     modals:
@@ -20,8 +20,8 @@ tpl:
   - file: testimonios
   - file: por-que-conmigo
   - file: contacto
-  # - file: eventos
-  # - file: blog
+  - file: eventos
+  - file: blog
 base: organization
 organization:
   types:

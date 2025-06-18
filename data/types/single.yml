@@ -2,22 +2,21 @@ title: Únicas
 order: 0
 base: single
 tpl:
+  back:
+    color: light
   menu:
     size: lg
     sticky: auto
+    logo_sticky: true
   section:
   - size: ''
-    color: light
     parallax: fix
     alpha: 0.7
     uppercase: true
     underline: true
-    div: brush
-    div_x: true
+    div: ethnic
+  - color: white
     div_y: true
-  - div_x: false
-    div_y: false
-    color: white
   modal:
     color: white
     uppercase: true

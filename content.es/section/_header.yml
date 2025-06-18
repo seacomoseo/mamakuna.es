@@ -8,6 +8,7 @@ full: true
 pt: 2
 hanchor: Mamakuna - Terapeuta Holística en Murcia
 alpha: 0.8
+div: brush
 box:
   align_y: center
   gap: 3
@@ -22,5 +23,5 @@ boxes:
     Amor como medicina
 
     [[:plus: Más]](#terapias)
-- image: https://youtu.be/hdZDsqlZdS8 #poster=fotos/afree-aparece.jpg
+- image: https://youtu.be/hdZDsqlZdS8#poster=fotos/afree-aparece.jpg
   ratio: 1.2

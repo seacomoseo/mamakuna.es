@@ -3,3 +3,6 @@ color: light
 bg: fondo.jpg
 full: true
 alpha: 0
+div: brush
+div_x: true
+div_y: true

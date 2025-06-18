@@ -42,9 +42,9 @@ tpl:
         link: /#contacto
         button: cta
       - label: Eventos
-        link: /eventos/
+        link: /#eventos
       - label: Blog
-        link: /blog/
+        link: /#blog
   callnow:
     show: items
     es:

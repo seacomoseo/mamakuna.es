@@ -10,7 +10,7 @@ body {
     transform:
       translateX(var(--logo-x, 0em))
       translateY(calc(50vh - 50% - var(--logo-y, -4em)))
-      scale(var(--logo-z, 1.25));
+      scale(var(--logo-z, 1.125));
   }
 }
 #body-home #header {
