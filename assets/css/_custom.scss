@@ -9,7 +9,7 @@ body {
   75% {
     transform:
       translateX(var(--logo-x, 0em))
-      translateY(calc(50vh - 50% - var(--logo-y, -4em)))
+      translateY(calc(50vh - 50% - var(--logo-y, 0em)))
       scale(var(--logo-z, 1.125));
   }
 }
