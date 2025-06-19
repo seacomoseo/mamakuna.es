@@ -2,7 +2,7 @@ title: Únicas
 order: 0
 base: single
 tpl:
-  back:
+  bg:
     color: light
   menu:
     size: lg
@@ -12,15 +12,15 @@ tpl:
   - size: ''
     parallax: fix
     alpha: 0.7
-    uppercase: true
-    underline: true
+    caps: true
+    line: true
     div: ethnic
   - color: white
     div_y: true
   modal:
     color: white
-    uppercase: true
-    underline: true
+    caps: true
+    line: true
   list:
     cols: 3
     color: black
@@ -30,5 +30,5 @@ tpl:
     align: ''
     md: hide
     button: hide
-    underline: true
+    line: true
     hs: 3

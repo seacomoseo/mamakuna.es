@@ -2,14 +2,14 @@ name: Limpieza Energetica
 hanchor: Limpieza Energética Online y en Murcia - Mamakuna
 title: Limpieza Energética
 subtitle: de Espacios y Cuerpos
-bg: terapias/limpieza-energetica.jpg
+bi: terapias/limpieza-energetica.jpg
 alpha: 0.9
 color: light
 fade: white
 fade_type: circle
 size: md
 full: true
-uppercase: false
+caps: false
 box:
   gap_vs: 5
   gap_ny: 1
@@ -18,7 +18,7 @@ boxes:
     cols: 2
     gap_vs: 3
     gap_ny: 1
-    underline: true
+    line: true
     align: left
     align_y: center
     ratio: 4/3
@@ -37,18 +37,18 @@ boxes:
     gap_ny: 1
     # icon_size: 3
     hn: 3
-    underline: true
+    line: true
     align: left
   boxes:
   - title: Tipos de limpieza
     hn: 2
-    underline: true
+    line: true
     align: center
   - # icon: hand-sparkles
     title: Limpieza de Áurea (con péndulo hebreo)
     subtitle: Presencial y a distancia
     md: |
-      Es una limpieza del cuerpo energético y un fortalecimiento del campo electromagnético (aura). Se libera el cuerpo de energías de baja vibración, se cortan enganches energías nocivas que están causando interferencia en todo tu sistema; mal de ojo, magias, ataques energéticos, parásitos astrales, entidades oscuras, etc. Se alinean los centros energéticos (chakras), se restaura el aura, desde la conciencia del alma, el Yo Soy, divinidad en ti. Esta limpieza va acompañada de una guía y recursos prácticos para mantener una buena higiene energética.
+      Es una limpieza del cuerpo energético y un fortalecimiento del campo electromagnético (aura). Se libera el cuerpo de energías de baja vibración, se cortan enganches, energías nocivas que están causando interferencia en todo tu sistema; mal de ojo, magias, ataques energéticos, parásitos astrales, entidades oscuras, etc. Se alinean los centros energéticos (chakras), se restaura el aura, desde la conciencia del alma, el Yo Soy, divinidad en ti. Esta limpieza va acompañada de una guía y recursos prácticos para mantener una buena higiene energética.
 
       Esta limpieza es aplicable a todos los seres del reino animal.
 
@@ -56,7 +56,7 @@ boxes:
     title: Limpieza Mamakuna. Intradimensional
     subtitle: Presencial
     md: |
-      Esta limpieza es un viaje de autoconocimiento por cada uno de tus cuerpos, mental, emocional, energético y físico. Un viaje en el que te acompaña por toda la información que existe, en cada uno de ellos, que está condicionando negativamente tus experiencias presentes. 
+      Esta limpieza es un viaje de autoconocimiento por cada uno de tus cuerpos: mental, emocional, energético y físico. Un viaje en el que te acompaño por toda la información que existe, en cada uno de ellos, que está condicionando negativamente tus experiencias presentes. 
 
       Cuerpo mental. Liberamos información de mente subconsciente: creencias de la infancia (auto-concepto), mandatos del clan familiar, patrones de comportamiento adquiridos, que no son coherentes con el camino evolutivo del alma.
 
@@ -70,7 +70,7 @@ boxes:
     title: Limpieza de espacios
     subtitle: A distancia
     md: |
-      Los lugares acumulan energías de todas las personas que los han transitado y todas las circunstancias que los han protagonizado, si no se limpian regularmente , la energía se va estancando.  y puede n crear portales negativos que debilitan la vitalidad de quienes los habitan.
+      Los lugares acumulan energías de todas las personas que los han transitado y todas las circunstancias que los han protagonizado. Si no se limpian regularmente, la energía se va estancando y pueden crearse portales negativos que debilitan la vitalidad de quienes los habitan.
 
       Esta limpieza va acompañada de una guía para mantener la armonía en los hogares.
 
@@ -78,7 +78,7 @@ boxes:
     title: Limpieza Chamánica
     subtitle: Presencial
     md: |
-      Enfocada a despertar la grandeza del espíritu .  Se limpia toda la energía, lista para liberarse, de todos los cuerpos, mental, emocional, energético y físico, mediante el humo de plantas medicinales, el latido del tambor y el canto sagrado.
+      Enfocada a despertar la grandeza del espíritu.  Se limpia toda la energía, lista para liberarse, de todos los cuerpos, mental, emocional, energético y físico, mediante el humo de plantas medicinales, el latido del tambor y el canto sagrado.
 
       Se activa tu fuerza, el recuerdo de la memoria ancestral que te habita, despiertan los dones del alma.
   - image: fotos/afree-tambor-chamanico.webp

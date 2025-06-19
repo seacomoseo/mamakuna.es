@@ -1,18 +1,18 @@
 name: Registros Akashicos
 title: Registros Akáshicos
 subtitle: Online y en Murcia
-bg: terapias/registros-akashicos.jpg
+bi: terapias/registros-akashicos.jpg
 color: light
 fade: white
 fade_type: circle
 full: true
-uppercase: false
+caps: false
 hanchor: Registros Akáshicos Online y en Murcia - Mamakuna
 alpha: 0.8
 box:
   align_y: top
   gap: 3
-  underline: true
+  line: true
   cols: 2
 boxes:
 - fit: 2
@@ -31,7 +31,7 @@ boxes:
     Todos somos canales, alquimistas, sabios/as y maestros/as en nuestra conciencia, hoy es tiempo de recordar la memoria ancestral y empezar a caminar desde el espacio sagrado del alma para crear una Nueva Humanidad.
 
     # Sesión de Registros
-    {.underline}
+    {.line}
 
     Cuanto más limpios estén nuestros cuerpos (físico, mental, emocional, energético), más claridad experimentaremos al abrir el canal, más puros serán los datos que desciendan a nuestro fractal humano, más desarrollada estará nuestra intuición y por tanto más confianza integraremos en la voz del alma que somos.
   align: left

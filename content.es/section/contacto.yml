@@ -9,4 +9,4 @@ boxes:
 - pin: whatsapp
   label: 605 38 01 98
   link: https://wa.me/34605380198
-  ofuscate: true
+  lock: true

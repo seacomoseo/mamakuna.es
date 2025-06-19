@@ -1,20 +1,20 @@
 name: Reiki
 title: Reiki Crístico
 subtitle: Online y en Murcia
-bg: terapias/reiki.webp
+bi: terapias/reiki.webp
 color: light
 fade: white
 fade_type: circle
 size: md
 full: true
-uppercase: false
+caps: false
 hanchor: Reiki Crístico Online y en Murcia - Mamakuna
 alpha: 0.8
 box:
   cols: 2
   gap_vs: 5
   gap_ny: 1
-  underline: true
+  line: true
   align: left
   align_y: center
   ratio: 3/4
@@ -27,7 +27,7 @@ boxes:
 
     Su mensaje es el perdón y el amor sin condiciones, mediante el cual encontramos la comunión con Dios.
 
-    Cuando amamos y perdonamos por lo que creemos que nos han hecho, salimos del juego de la mente programado y entramos en la Conciencia de Unidad, encontrando en el corazón la certeza de que al único ser al que estamos amando y perdonando es a nosotros/as mismos.
+    Cuando amamos y perdonamos por lo que creemos que nos han hecho, salimos del juego de la mente programada y entramos en la Conciencia de Unidad, encontrando en el corazón la certeza de que al único ser al que estamos amando y perdonando es a nosotros/as mismos.
 
 
 - order: 4
@@ -38,10 +38,10 @@ boxes:
   md: |
     El lugar desde el cual Jesús caminaba, hoy se le conoce como El Cristo, energía crística o conciencia crística.
 
-    Esta frecuencia continua activa en los planos sutiles de conciencia, siempre dispuesta a guiar el camino a todas las almas que la busquen.
+    Esta frecuencia continúa activa en los planos sutiles de conciencia, siempre dispuesta a guiar el camino a todas las almas que la busquen.
 
-    Esta es la energía que pasa a través de mi para entrar en tu cuerpo energético, para reconfigurarlo con los códigos de El Cristo.
+    Esta es la energía, que pasa a través de mi para entrar en tu cuerpo energético, para reconfigurarlo con los códigos de "El Cristo".
 
-    Es una honda de amor puro, incondicional y compasivo que entra en cada uno de tus centros de energía (chakras), alineándote en la divinidad que eres, recordando la sabiduría que te habita y preparándote para caminar desde ella.
+    Es una honda de amor puro, incondicional y compasivo, que entra en cada uno de tus centros de energía (chakras), alineándote en la divinidad que eres, recordando la sabiduría que te habita y preparándote para caminar desde ella.
 
     Es un dulce abrazo, que viene a recordarte que eres hijo/hija de Dios y mereces absolutamente el amor en su estado más puro.

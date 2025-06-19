@@ -4,7 +4,7 @@ subtitle: Herramientas a tu servicio
 box:
   cols: 4
   card: true
-  underline: true
+  line: true
   # inset: true
   # ratio: 3/2
   button: hide

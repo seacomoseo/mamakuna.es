@@ -1,18 +1,18 @@
 name: Musica Medicina
 title: Música Medicina
 subtitle: en Murcia
-bg: terapias/musica-medicina.jpg
+bi: terapias/musica-medicina.jpg
 color: light
 fade: white
 fade_type: circle
 full: true
-uppercase: false
+caps: false
 hanchor: Música Medicina en Murcia - Mamakuna
 alpha: 0.8
 box:
   align_y: top
   gap: 3
-  underline: true
+  line: true
   cols: 5
 boxes:
 - fit: 2

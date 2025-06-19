@@ -1,21 +1,21 @@
 name: Activacion Codigos luz
 title: Activación de Códigos de Luz
 subtitle: Online y en Murcia
-bg: terapias/activacion-codigos-luz.jpg
+bi: terapias/activacion-codigos-luz.jpg
 color: light
 fade: white
 fade_type: circle
 full: true
-uppercase: false
+caps: false
 hanchor: Activación de Códigos de Luz Online y en Murcia - Mamakuna
 alpha: 0.8
 box:
   cols: 2
   gap: 3
-  underline: true
+  line: true
 boxes:
 - fit: 2
-  bg: fotos/06.jpg
+  bi: fotos/06.jpg
 - fit: 3
   md: |
     Un código de luz es un paquete de información que guarda datos sobre la memoria de la creación. Los códigos de luz pueden venir de diferentes dimensiones, de diferentes energías, siendo muy rica toda la información que pueden despertar en nosotros.  

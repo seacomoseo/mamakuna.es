@@ -5,7 +5,7 @@ boxes:
 - review:
     color: similar
     slider: true
-    interval: 8
+    time: 8
     cols: 3
   reviews:
   - title: Mario N.

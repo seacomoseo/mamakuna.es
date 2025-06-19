@@ -59,7 +59,7 @@ organization:
   - terapias/circulos-mujeres.jpg
   - terapias/constelaciones-familiares.jpg
   - terapias/limpieza-energetica.jpg
-  social:
+  as:
   # - https://www.instagram.com/afreeancestral/
   - https://g.page/r/Cem6Zye01vC0EBM
   - https://www.youtube.com/@shalom.mamakuna

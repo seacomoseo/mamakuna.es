@@ -5,19 +5,19 @@ subtitle: o Bendición de Útero
 md: |
   > El útero no es un lugar para guardar miedo o dolor, <br> el útero es un lugar para crear y dar luz a la vida
   > <cite>Marcela Lobos</cite>
-bg: terapias/sanacion-utero.jpg
+bi: terapias/sanacion-utero.jpg
 color: light
 fade: white
 fade_type: circle
 full: true
 size: md
-uppercase: false
+caps: false
 alpha: 0.8
 box:
   cols: 2
   gap_vs: 3
   gap_ny: 1
-  underline: true
+  line: true
   align: left
   align_y: center
 boxes:
@@ -40,7 +40,7 @@ boxes:
   align_vl: right
   title: Mujer Cíclica
   md: |
-    La polarización de la mujer en la energía masculina ha supuesto un desgarro a su verdadera naturaleza ya toda la medicina que esta conlleva.
+    La polarización de la mujer en la energía masculina, ha supuesto un desgarro a su verdadera naturaleza y a toda la medicina que esta conlleva.
 
     El desconocimiento de las energías que caracterizan cada una de las fases por las que transita una mujer, (menstrual, folicular, ovulatoria y lútea) la aleja del respeto por los ritmos orgánicos de su cuerpo.
 
@@ -54,6 +54,6 @@ boxes:
 - order: 6
   title: Bendición de Útero
   md: |
-    La bendición de útero es un viaje al reencuentro con la memoria ancestral que te habita por ser mujer. Un viaje en el que te acompaña a tomar conciencia de las informaciones erróneas, asumidas como ciertas, que están suponiendo un peso y están condicionando tu feminidad salvaje. 
+    La bendición de útero es un viaje al reencuentro con la memoria ancestral que te habita por ser mujer. Un viaje en el que te acompaño a tomar conciencia de las informaciones erróneas, asumidas como ciertas, que están suponiendo un peso y están condicionando tu feminidad salvaje. 
 
     Trabajamos sobre la energía del útero, activando el poder creador del alma que eres, que toma confianza en su propia capacidad de autosanación y desde este lugar, reconfiguramos el útero con la energía del Divino Femenino: prosperidad, libertad, expansión, placer, merecimiento, autocuidado, autorespeto, perdón y amor incondicional. La nueva información se integra en cuerpo emocional, cuerpo mental y cuerpo físico. 
