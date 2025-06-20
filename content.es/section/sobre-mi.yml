@@ -3,28 +3,23 @@ title: Sobre mi
 subtitle: Misión, visión y valores
 size: md
 box:
-  cols: 2
+  duo: 2
   gap: 5
   gap_vs: 3
   gap_ny: 1
   align_y: center
 boxes:
-- order: 2
-  image: fotos/afree-ser.webp
-- order: 1
-  md: |
+
+- image: fotos/afree-ser.webp
+- md: |
     La razón de haber encarnado en este plano es la de estar a tu servicio. Vengo a contribuir junto con tantas otras almas a hacer de este mundo un lugar amoroso. La frecuencia planetaria se está elevando y esto es gracias a los cambios que los seres humanos estamos haciendo en nuestro proceso de autoconocimiento.
 
     Somos nosotros los portales hacia el amor y la paz, esto solo se consigue conquistando nuestras guerras internas, a través del perdón, la comprensión y aceptación plena de nosotros mismos. Somos entidades de energía que un tiempo atrás elegimos nacer en un cuerpo humano, olvidando quienes éramos. Toda la memoria de la creación está impregnada en nuestras células, hoy es tiempo de recordar.
 
     Estoy aquí para ser apoyo de tu proceso, para facilitarte el camino y acompañarte hacia el descubrimiento de tu Yo Soy, de la divinidad en ti, de tu esencia.
-  align: left
-  align_vl: right
-- order: 3
-  image: fotos/afree-sintiendo.webp
-  # ratio: 9/16
-- order: 4
-  md: |
+
+- image: fotos/afree-sintiendo.webp
+- md: |
     Desde que recuerdo Dios estuvo presente en mí, incluso antes de empaparme de la sociedad en la que crecí, en la que se ve a “Dios” como un concepto mental y una entidad humanizada separada del Todo y de todos. Dios es una verdad que siempre llevé en el corazón y esta verdad era y es inamovible.
 
     Desde mis primeros años de vida siempre fui muy sensible, estando muy abierta energéticamente, podía sentir todo lo que me rodeaba, lo cual no siempre fue agradable. Recuerdo que a menudo descansaba en la luz de mis guías, en ese momento no sabía lo que eran, aunque tampoco me importaba, sé que el Alma los reconocía, siendo su presencia en mi vida una reafirmación sutil y a la vez férrea de Dios en mí y en todo.
@@ -32,4 +27,3 @@ boxes:
     A medida que fui creciendo, siendo objeto de las proyecciones de mi entorno familiar, la educación y la misma sociedad, mi canal se fue ennegreciendo y la conexión con Dios debilitando hasta casi olvidarlo. La imposición de creencias recibida y la carga transgeneracional que llevaba, dieron lugar a la creación del personaje en que me convertí, con un autoconcepto que me dolía y me atrapaba, la vida me pesaba y no entendía nada. Sentía que no pertenecía a este lugar.
 
     [Seguir leyendo…](#sobre-mi-mas)
-  align: left

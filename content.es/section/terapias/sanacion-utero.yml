@@ -14,7 +14,7 @@ size: md
 caps: false
 alpha: 0.8
 box:
-  cols: 2
+  duo: 1
   gap_vs: 3
   gap_ny: 1
   line: true
@@ -22,11 +22,9 @@ box:
   align_y: center
 boxes:
 
-- order: 1
-  image: fotos/afree-naturaleza.webp
+- image: fotos/afree-naturaleza.webp
   ratio: 3/4
-- order: 2
-  title: Energía Femenina
+- title: Energía Femenina
   md: |
     La energía femenina es la capacidad de percepción del mundo intangible. Lo que caracteriza al femenino es que su herramienta para decodificar la información del mundo sutil es "sentir". 
 
@@ -34,11 +32,8 @@ boxes:
 
     Lo que viene ocurriendo a lo largo de la historia es que ese tiempo no se ha permitido, porque la sociedad, basada en la energía masculina, ha estado regida por la acción y la producción. 
 
-- order: 4
-  image: fotos/afree-fluyendo.webp
-- order: 3
-  align_vl: right
-  title: Mujer Cíclica
+- image: fotos/afree-fluyendo.webp
+- title: Mujer Cíclica
   md: |
     La polarización de la mujer en la energía masculina, ha supuesto un desgarro a su verdadera naturaleza y a toda la medicina que esta conlleva.
 
@@ -48,11 +43,9 @@ boxes:
 
     Conectar con el útero es volver a la raíz, recordar la medicina que cada una tiene dentro, honrar los tiempos, permitir el placer de vivir la propia vida y expresar libremente el propio arte.
 
-- order: 5
-  image: fotos/09.jpg
+- image: fotos/09.jpg
   ratio: 1/1
-- order: 6
-  title: Bendición de Útero
+- title: Bendición de Útero
   md: |
     La bendición de útero es un viaje al reencuentro con la memoria ancestral que te habita por ser mujer. Un viaje en el que te acompaño a tomar conciencia de las informaciones erróneas, asumidas como ciertas, que están suponiendo un peso y están condicionando tu feminidad salvaje. 
 
