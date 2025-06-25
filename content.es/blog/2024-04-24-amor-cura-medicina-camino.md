@@ -7,7 +7,7 @@ image: blog/amor-cura-medicina-camino.png
 toc: false
 draft: false
 noindex: false
-date: 2024-04-24
+date: 2024-04-24 00:00:00
 # lastmod: ''
 translationKey: amor-cura-medicina-camino
 ---

@@ -7,7 +7,7 @@ image: blog/vivir-desde-dentro.jpg
 toc: false
 draft: false
 noindex: false
-date: 2024-04-24
+date: 2024-04-24 00:00:00
 # lastmod: ''
 translationKey: vivir-desde-dentro
 ---

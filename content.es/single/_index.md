@@ -22,8 +22,8 @@ tpl:
   - file: contacto
   - file: eventos
   - file: blog
-base: organization
-organization:
+base: org
+org:
   types:
   - LocalBusiness
   - Organization
