@@ -2,6 +2,7 @@ langs:
 - lang: es
   title: Mamakuna
   description: Sanación a través de diferentes terapias energéticas alternativas
+  google_analytics: G-GB9CWTTV7N
   google_file_verification: google7467d923cbb3eb4c.html
 defaults:
 - name: author
