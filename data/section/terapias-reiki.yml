@@ -17,7 +17,7 @@ box:
   line: true
   align: left
   align_y: center
-  ratio: 3/4
+  # ratio: 3/4
 boxes:
 - order: 1
   image: fotos/afree-luz.jpg
