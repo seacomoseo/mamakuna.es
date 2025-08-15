@@ -1,8 +1,0 @@
-name: Contenidos
-node: div
-if: content
-id: content
-pt: 0
-md: '{{% content %}}'
-md_nav: true
-md_index: false

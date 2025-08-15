@@ -1,5 +1,5 @@
 title: Únicas
-order: 0
+weight: 0
 base: single
 tpl:
   bg:
@@ -17,10 +17,6 @@ tpl:
     div: ethnic
   - color: white
     div_y: true
-  modal:
-    color: white
-    caps: true
-    line: true
   list:
     cols: 3
     color: black

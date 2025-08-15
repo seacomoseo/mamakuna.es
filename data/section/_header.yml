@@ -1,0 +1,29 @@
+name: Header
+color: light
+fade: white
+fade_type: circle
+bi: fondo.jpg
+size: md
+full: true
+pt: 2
+hanchor: Mamakuna - Terapeuta Holística en Murcia, San Pedro del Pinatar y Torrevieja
+alpha: 0.8
+div: mountain
+box:
+  cols: 1
+  gap: 3
+  line: true
+  align_y: center
+boxes:
+- fit: 0.4
+  image: base/icon-a.svg
+  ratio: 3/2
+  title: MAMAKUNA
+  subtitle: Encuentros con Divinidad
+  md: |
+    Amor como medicina
+
+    [[:plus: Más]](#terapias)
+- fit: 0.6
+  image: https://youtu.be/hdZDsqlZdS8#poster=fotos/afree-aparece-poster.jpg
+  ratio: 6/5

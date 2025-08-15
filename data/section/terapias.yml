@@ -1,0 +1,28 @@
+name: Terapias
+title: Terapias
+subtitle: Herramientas a tu servicio
+box:
+  cols: 4
+  card: true
+  line: true
+  button: hide
+  hs: 3
+boxes:
+- image: terapias/limpieza-energetica.jpg
+  title: Limpieza <br> Energética
+  anchor: Limpieza Energética en Murcia, San Pedro del Pinatar y Torrevieja
+  link: /limpieza-energetica/
+- image: terapias/circulos-mujeres.jpg
+  title: Círculos <br> de Mujeres
+  anchor: Círculos de Mujeres en Murcia, San Pedro del Pinatar y Torrevieja
+  subtitle: ''
+  link: /circulos-mujeres/
+- image: terapias/sanacion-utero.jpg
+  title: Sanación <br> de Útero
+  anchor: Sanación de Útero en Murcia, San Pedro del Pinatar y Torrevieja
+  subtitle: ''
+  link: /sanacion-utero/
+- image: terapias/reiki.webp
+  title: Reiki <br> Crístico
+  anchor: Reiki Online y en Murcia, San Pedro del Pinatar y Torrevieja
+  link: /reiki/

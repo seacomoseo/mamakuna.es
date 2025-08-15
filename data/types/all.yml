@@ -8,61 +8,21 @@ tpl:
     size: sm
     transparent: true
     color: white
-    show_sections: false
     hide_icons: true
-    es:
-      image: base/logo-h.svg
-      items:
-      - label: Inicio
-        link: /
-        anchor: Mamakuna - Terapeuta Holística en Murcia
-      - label: Terapias
-        link: /#terapias
-        items:
-        - label: Limpieza Energética de Cuerpos
-          anchor: Limpieza Energética de Cuerpos Online
-          link: /limpieza-energetica/
-        - label: Círculos de Mujeres
-          anchor: Círculos de Mujeres en Murcia
-          link: /circulos-mujeres/
-        - label: Sanación de Útero
-          anchor: Sanación de Útero en Murcia
-          link: /sanacion-utero/
-        - label: Reiki Crístico
-          anchor: Reiki Online y en Murcia
-          link: /reiki/
-      - label: Sobre mi
-        link: /#sobre-mi
-      - label: Testimonios
-        link: /#testimonios
-      - label: ¿Por qué conmigo?
-        link: /#por-que-conmigo
-      - label: Contacto
-        link: /#contacto
-        button: cta
-      - label: Eventos
-        link: /#eventos
-      - label: Blog
-        link: /#blog
-  callnow:
-    show: items
-    es:
-    - type: whatsapp
-      label: 605 38 01 98
-      button: cta
+  callnow: custom
   section:
   - size: sm
   sections:
-  - file: base/_header
-  - file: base/toc
-  - file: base/content
-  - file: base/address
-  - file: base/author
-  - file: base/social
-  - file: base/comments
-  - file: base/children
-  - file: base/share
-  - file: base/related
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-related
   list:
     cols: 3
     color: white

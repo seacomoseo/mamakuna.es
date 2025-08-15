@@ -2,11 +2,11 @@ title: Autores
 base: author
 tax_of:
 - name: blog
-  order: 1
+  weight: 1
   schema: author
 - name: event
-  order: 2
+  weight: 2
   schema: author
 - name: single
-  order: 3
+  weight: 3
   schema: author

@@ -1,6 +1,6 @@
 title: Eventos
 base: event
-order: 4
+weight: 4
 related: true
 tpl:
   list:
