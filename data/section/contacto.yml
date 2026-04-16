@@ -1,13 +1,15 @@
 name: Contacto
 size: xs
 menu_btn: cta
+box:
+  gap_vs: 2
 boxes:
 - title: Contacto
   sub: Siente más, piensa menos
-  box:
-    gap: 1
-  boxes:
+- boxes:
   - pin: brand:whatsapp
     label: 605 38 01 98
     url: https://wa.me/34605380198
     lock: y
+  - md: (África)
+    align: center

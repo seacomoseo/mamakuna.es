@@ -8,9 +8,9 @@ alpha: 0.8
 size: md
 boxes:
 - title: Círculos de Mujeres
-  sub: en Murcia, San Pedro del Pinatar y Torrevieja
+  sub: en Murcia y Torrevieja
   caps: n
-  hanchor: Círculos de Mujeres en Murcia, San Pedro del Pinatar y Torrevieja
+  hanchor: Círculos de Mujeres en Murcia y Torrevieja
   box:
     cols: 5
     gap: 3

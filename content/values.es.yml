@@ -7,18 +7,18 @@ menu:
   - label: Terapias
     url: /#terapias
     items:
-    - label: Limpieza Energética de Cuerpos
+    - label: Limpieza Energética
       anchor: Limpieza Energética de Cuerpos Online
       url: /limpieza-energetica/
     - label: Círculos de Mujeres
-      anchor: Círculos de Mujeres en Murcia, San Pedro del Pinatar y Torrevieja
+      anchor: Círculos de Mujeres en Murcia y Torrevieja
       url: /circulos-mujeres/
     - label: Sanación de Útero
       anchor: Sanación de Útero en Murcia, San Pedro del Pinatar y Torrevieja
       url: /sanacion-utero/
-    - label: Reiki Crístico
-      anchor: Reiki Online y en Murcia, San Pedro del Pinatar y Torrevieja
-      url: /reiki/
+    # - label: Reiki Crístico
+    #   anchor: Reiki Online y en Murcia, San Pedro del Pinatar y Torrevieja
+    #   url: /reiki/
   - label: Sobre mi
     url: /#sobre-mi
   - label: Testimonios

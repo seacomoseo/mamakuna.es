@@ -3,7 +3,7 @@ boxes:
 - title: Terapias
   sub: Herramientas a tu servicio
   box:
-    cols: 4
+    cols: 3
     card: y
     line: y
     btn: hide
@@ -15,7 +15,7 @@ boxes:
     url: /limpieza-energetica/
   - img: /u/terapias/circulos-mujeres.jpg
     title: Círculos <br> de Mujeres
-    anchor: Círculos de Mujeres en Murcia, San Pedro del Pinatar y Torrevieja
+    anchor: Círculos de Mujeres en Murcia y Torrevieja
     sub: null
     url: /circulos-mujeres/
   - img: /u/terapias/sanacion-utero.jpg
@@ -23,7 +23,7 @@ boxes:
     anchor: Sanación de Útero en Murcia, San Pedro del Pinatar y Torrevieja
     sub: null
     url: /sanacion-utero/
-  - img: /u/terapias/reiki.webp
-    title: Reiki <br> Crístico
-    anchor: Reiki Online y en Murcia, San Pedro del Pinatar y Torrevieja
-    url: /reiki/
+  # - img: /u/terapias/reiki.webp
+  #   title: Reiki <br> Crístico
+  #   anchor: Reiki Online y en Murcia, San Pedro del Pinatar y Torrevieja
+  #   url: /reiki/
