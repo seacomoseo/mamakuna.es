@@ -1,12 +1,10 @@
 title: Autores
 base: author
+weight: 1
 tax_of:
 - name: blog
-  weight: 1
   schema: author
 - name: event
-  weight: 2
   schema: author
 - name: single
-  weight: 3
   schema: author

@@ -1,5 +1,5 @@
 title: Blog
 base: article
-weight: 3
+weight: 1
 name: blog
-related: true
+rel: y

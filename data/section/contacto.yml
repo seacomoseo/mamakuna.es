@@ -1,12 +1,13 @@
 name: Contacto
-title: Contacto
-subtitle: Siente más, piensa menos
 size: xs
-menu_button: cta
-box:
-  gap: 1
+menu_btn: cta
 boxes:
-- pin: whatsapp
-  label: 605 38 01 98
-  link: https://wa.me/34605380198
-  lock: true
+- title: Contacto
+  sub: Siente más, piensa menos
+  box:
+    gap: 1
+  boxes:
+  - pin: brand:whatsapp
+    label: 605 38 01 98
+    url: https://wa.me/34605380198
+    lock: y

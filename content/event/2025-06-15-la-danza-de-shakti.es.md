@@ -1,19 +1,14 @@
 ---
 slug: la-danza-de-shakti
 title: La Danza de Shakti
-seo: ''
-description: ''
-image: eventos/2025-06-15-la-danza-de-shakti.jpg
-toc: false
-draft: false
-noindex: false
+img: /u/eventos/2025-06-15-la-danza-de-shakti.jpg
 date: 2025-06-15 10:30:00
 end: 2025-06-15 13:00:00
 price: 22
-cancelled: false
+cancelled: n
 artists:
 - name: Afree
-  group: false
+  group: n
 address:
   name: Rincón de los Sentidos
   street: Carril Penchos, 103
@@ -22,7 +17,7 @@ address:
   region: Murcia
   country: ES
   geo: '{"type":"Point","coordinates":[-1.1611565,37.9954342]}'
-  link: https://maps.app.goo.gl/TzurpxGZih7PgyYdA
+  url: https://maps.app.goo.gl/TzurpxGZih7PgyYdA
 ---
 
 Feliz presente Mujeres Sagradas

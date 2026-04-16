@@ -1,28 +1,23 @@
 ---
 slug: ceremonia-bendicion-utero-canto-sagrado
 title: Ceremonia Bendicion de Útero y Canto Sagrado
-seo: ''
-description: ''
-image: eventos/2024-06-02-ceremonia-bendicion-utero-canto-sagrado.jpg
-toc: false
-draft: false
-noindex: false
+img: /u/eventos/2024-06-02-ceremonia-bendicion-utero-canto-sagrado.jpg
 date: 2024-06-02 17:00:00
 end: 2024-06-02 20:00:00
 # price: null
-cancelled: false
+cancelled: n
 artists:
 - name: Afree
-  group: false
+  group: n
 address:
-  name: ''
-  street: ''
+  name: null
+  street: null
   pc: '03191'
   locality: Pinar de Campoverde
   region: Alicante
   country: ES
-  # geo: ''
-  # link: ''
+  geo: null
+  url: null
 ---
 
 > Despierta la energía sagrada femenina

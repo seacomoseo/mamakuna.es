@@ -1,25 +1,26 @@
 name: Terapias ➡️ Musica Medicina
-title: Música Medicina
-subtitle: en Murcia
-bi: terapias/musica-medicina.jpg
+bi: /u/terapias/musica-medicina.jpg
 color: light
 fade: white
-fade_type: circle
-full: true
-caps: false
-hanchor: Música Medicina en Murcia - Mamakuna
+fade_to: disc
+full: y
 alpha: 0.8
-box:
-  align_y: top
-  gap: 3
-  line: true
-  cols: 5
 boxes:
-- fit: 2
-  image: fotos/02.jpg
-  ratio: 9/16
-- fit: 5
-  order: -1
-  icon: triangle-person-digging
-  md: |
-    Página en construcción, pronto estará disponible
+- title: Música Medicina
+  sub: en Murcia
+  caps: n
+  hanchor: Música Medicina en Murcia - Mamakuna
+  box:
+    align_y: top
+    gap: 3
+    line: y
+    cols: 5
+  boxes:
+  - fit: 2
+    img: /u/fotos/02.jpg
+    ratio: 9/16
+  - fit: 5
+    order: -1
+    icon: warning
+    md: |
+      Página en construcción, pronto estará disponible

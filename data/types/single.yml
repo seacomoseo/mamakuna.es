@@ -1,4 +1,4 @@
-title: Únicas
+title: Páginas Únicas
 weight: 0
 base: single
 tpl:
@@ -7,24 +7,25 @@ tpl:
   menu:
     size: lg
     sticky: auto
-    logo_sticky: true
+    logo_sticky: y
   section:
-  - size: ''
-    parallax: fix
+  - size: lg
+    scroll: fix
     alpha: 0.7
-    caps: true
-    line: true
     div: ethnic
+    box:
+      caps: y
+      line: y
   - color: white
-    div_y: true
+    div_y: y
   list:
     cols: 3
     color: black
-    card: true
-    shade: false
+    card: y
+    shade: n
     icon: hide
-    align: ''
+    align: center
     md: hide
-    button: hide
-    line: true
+    btn: hide
+    line: y
     hs: 3

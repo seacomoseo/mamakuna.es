@@ -1,53 +1,52 @@
-title: Valores Globales
 menu:
-  image: base/logo-h.svg
+  img: /u/base/logo-h.svg
   items:
   - label: Inicio
-    link: /
+    url: /
     anchor: Mamakuna - Terapeuta Holística en Murcia, San Pedro del Pinatar y Torrevieja
   - label: Terapias
-    link: /#terapias
+    url: /#terapias
     items:
     - label: Limpieza Energética de Cuerpos
       anchor: Limpieza Energética de Cuerpos Online
-      link: /limpieza-energetica/
+      url: /limpieza-energetica/
     - label: Círculos de Mujeres
       anchor: Círculos de Mujeres en Murcia, San Pedro del Pinatar y Torrevieja
-      link: /circulos-mujeres/
+      url: /circulos-mujeres/
     - label: Sanación de Útero
       anchor: Sanación de Útero en Murcia, San Pedro del Pinatar y Torrevieja
-      link: /sanacion-utero/
+      url: /sanacion-utero/
     - label: Reiki Crístico
       anchor: Reiki Online y en Murcia, San Pedro del Pinatar y Torrevieja
-      link: /reiki/
+      url: /reiki/
   - label: Sobre mi
-    link: /#sobre-mi
+    url: /#sobre-mi
   - label: Testimonios
-    link: /#testimonios
+    url: /#testimonios
   - label: ¿Por qué conmigo?
-    link: /#por-que-conmigo
+    url: /#por-que-conmigo
   - label: Contacto
-    link: /#contacto
-    button: cta
+    url: /#contacto
+    btn: cta
   - label: Eventos
-    link: /#eventos
+    url: /#eventos
   - label: Blog
-    link: /#blog
+    url: /#blog
 callnows:
 - type: whatsapp
   label: 605 38 01 98
-  button: cta
+  btn: cta
 footer:
   div: ethnic
-  div_y: false
+  div_y: n
   space: 2
   dots:
-  - link: https://g.page/r/Cem6Zye01vC0EBM
-  - link: https://www.youtube.com/@shalom.mamakuna
+  - url: https://g.page/r/Cem6Zye01vC0EBM
+  - url: https://www.youtube.com/@shalom.mamakuna
   md: |
-    - :copyright:      {{< internal-link index >}}
-    - :scale-balanced: {{< internal-link legal >}}
-    - :shield-keyhole: {{< internal-link privacy >}}
-    - :cookie-bite:    {{< internal-link cookies >}}
-    - :seacomoseo:     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
     {.list-inline}

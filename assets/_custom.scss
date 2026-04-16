@@ -27,9 +27,9 @@ body {
   }
   .box__title  { @include show-from(-1); }
   .line:after  { @include show-from(5); }
-  .subtitle    { @include show-from(6); }
+  .sub    { @include show-from(6); }
   .md p        { @include show-from(7); }
-  .md .buttons { @include show-from(8); }
+  .md .btns { @include show-from(8); }
   .box--2      { @include show-from(9); }
   .line {
     font-size: 3em;
@@ -49,7 +49,7 @@ body {
 // }
 
 // #contacto {
-//   .contact__data > * {
+//   .link__data > * {
 //     flex-grow: 0;
 //   }
 //   // .box--1

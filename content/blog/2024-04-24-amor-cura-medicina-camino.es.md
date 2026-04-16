@@ -1,14 +1,8 @@
 ---
 slug: amor-cura-medicina-camino
 title: El amor es la cura, la medicina y el camino
-seo: ''
-description: ''
-image: blog/amor-cura-medicina-camino.png
-toc: false
-draft: false
-noindex: false
+img: /u/blog/amor-cura-medicina-camino.png
 date: 2024-04-24 00:00:00
-# lastmod: ''
 ---
 
 Amor como principio divino que todo lo transforma, amor como valor de vida, amor como motor de cambio.

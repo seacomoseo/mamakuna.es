@@ -1,11 +1,10 @@
 ---
 title: Sanación de Útero
-seo: Sanación y Bendición de Útero en Murcia y Torrevieja
+seo:
+  title: Sanación y Bendición de Útero en Murcia y Torrevieja
+  desc: Libera memorias y despierta tu energía creadora en Murcia, San Pedro del Pinatar y Torrevieja. Masaje, conexión divina y placer femenino. Reserva ya.
 slug: sanacion-utero
-description: Libera memorias y despierta tu energía creadora en Murcia, San Pedro del Pinatar y Torrevieja. Masaje, conexión divina y placer femenino. Reserva ya.
-image: terapias/sanacion-utero.jpg
-draft: false
-noindex: false
+img: /u/terapias/sanacion-utero.jpg
 tpl:
   sections:
   - file: terapias-sanacion-utero
@@ -18,4 +17,3 @@ service_areas:
 - San Pedro del Pinatar
 - Torrevieja
 ---
-

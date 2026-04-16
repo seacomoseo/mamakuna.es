@@ -1,19 +1,14 @@
 ---
 slug: medicina-selva
 title: Medicina de la Selva
-seo: ''
-description: ''
-image: eventos/2024-06-29-medicina-selva.jpg
-toc: false
-draft: false
-noindex: false
+img: /u/eventos/2024-06-29-medicina-selva.jpg
 date: 2024-06-29 19:00:00
 end: 2024-06-29 22:00:00
 price: 33
-cancelled: false
+cancelled: n
 artists:
 - name: Afree
-  group: false
+  group: n
 address:
   name: El Templo de la Diosa
   street: El Mirador
@@ -21,8 +16,8 @@ address:
   locality: San Pedro del Pinatar
   region: Murcia
   country: ES
-  # geo: ''
-  # link: ''
+  geo: null
+  url: null
 ---
 
 **Encuentro Medicina ⚜️ Toma tu Poder ⚜️ Activa tu Expresión**
@@ -62,7 +57,7 @@ Estaré sosteniendo la energía grupal. El día de antes haré limpieza energét
 
 🦅 Si tu alma siente el llamado haz clic en el enlace 🦅
 
-[[:whatsapp: Grupo de WhatsApp]](https://chat.whatsapp.com/F5vAYe3rpYz1LhlbVl7xnk "[noindex whatsapp]")
+[[::brand:whatsapp:: Grupo de WhatsApp]](https://chat.whatsapp.com/F5vAYe3rpYz1LhlbVl7xnk "[noindex whatsapp]")
 
 
 Amor & Bendición

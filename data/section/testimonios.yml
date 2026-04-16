@@ -1,10 +1,10 @@
 name: Testimonios
-title: Testimonios
-subtitle: Dicen de mi...
 boxes:
+- title: Testimonios
+  sub: Dicen de mi...
 - review:
-    color: similar
-    slider: true
+    color: such
+    slider: y
     time: 8
     cols: 3
   reviews:
@@ -53,4 +53,4 @@ boxes:
       Gracias, gracias, gracias.
 - boxes:
   - md: |
-      [[:plus: Más]](https://g.page/r/Cem6Zye01vC0EBM/review "[nofollow]")
+      [[::add:: Más]](https://g.page/r/Cem6Zye01vC0EBM/review "[nofollow]")

@@ -1,11 +1,11 @@
 ---
 title: Registros Akáshicos
-seo: Registros Akáshicos Online y en Murcia - Mamakuna
+seo:
+  title: Registros Akáshicos Online y en Murcia - Mamakuna
+  desc: llll➤ Sanación a través de registros akáshicos ✅ por Afree.
 slug: registros-akashicos
-description: llll➤ Sanación a través de registros akáshicos ✅ por Afree.
-image: terapias/registros-akashicos.jpg
-draft: true
-noindex: false
+img: /u/terapias/registros-akashicos.jpg
+draft: y
 tpl:
   sections:
   - file: terapias-registros-akashicos
@@ -17,4 +17,3 @@ service_areas:
 - Murcia
 - Online
 ---
-

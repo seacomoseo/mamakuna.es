@@ -1,9 +1,10 @@
 name: Blog
-title: Blog
-subtitle: Canalizaciones
 max: 12
-list:
-  type: blog
-box:
-  cols: 4
-  slider: true
+boxes:
+- title: Blog
+  sub: Canalizaciones
+  list:
+    type: blog
+  box:
+    cols: 4
+    slider: y

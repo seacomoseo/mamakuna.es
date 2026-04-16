@@ -1,8 +1,8 @@
 name: Header Next
 color: light
-bi: fondo.jpg
-full: true
+bi: /u/fondo.jpg
+full: y
 alpha: 0
 div: mountain
-div_x: true
-div_y: false
+div_x: y
+div_y: n

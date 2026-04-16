@@ -1,11 +1,10 @@
 ---
 slug: circulos-mujeres
 title: Círculos de Mujeres
-seo: Círculos de Mujeres en Murcia, San Pedro del Pinatar y Torrevieja
-description: llll➤ Comparte meditación, danza y palabra en nuestros círculos de mujeres. Recupera hermandad femenina en un espacio seguro. Únete.
-image: terapias/circulos-mujeres.jpg
-draft: false
-noindex: false
+seo:
+  title: Círculos de Mujeres en Murcia, San Pedro del Pinatar y Torrevieja
+  desc: llll➤ Comparte meditación, danza y palabra en nuestros círculos de mujeres. Recupera hermandad femenina en un espacio seguro. Únete.
+img: /u/terapias/circulos-mujeres.jpg
 tpl:
   sections:
   - file: terapias-circulos-mujeres
@@ -18,4 +17,3 @@ service_areas:
 - San Pedro del Pinatar
 - Torrevieja
 ---
-

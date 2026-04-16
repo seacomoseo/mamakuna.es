@@ -1,11 +1,11 @@
 ---
 title: Ceremonias de Cacao
-seo: Ceremonias de Cacao en Murcia - Mamakuna
+seo:
+  title: Ceremonias de Cacao en Murcia - Mamakuna
+  desc: llll➤ Sanación a través de ceremonias de cacao ✅ por Afree.
 slug: ceremonias-cacao
-description: llll➤ Sanación a través de ceremonias de cacao ✅ por Afree.
-image: terapias/ceremonias-cacao.jpg
-draft: true
-noindex: false
+img: /u/terapias/ceremonias-cacao.jpg
+draft: y
 tpl:
   sections:
   - file: terapias-ceremonias-cacao
@@ -16,4 +16,3 @@ service_types:
 service_areas:
 - Murcia
 ---
-

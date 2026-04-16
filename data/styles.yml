@@ -1,89 +1,83 @@
 icons:
-  type: regular
-  sharp: false
-  emojis: false
-  play: youtube-iframe
-  up:
-  down:
-  left:
-  right:
+  fill: n
+  weight: 500
+  grade: 0
+  optical: 24
+  style: rounded
+  def:
+    play: svg:youtube-iframe
 fonts:
   base:
-    google: true
     family: Playfair Display
     weight: 400
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
   cursive:
-    google: true
     family: Playfair Display
     weight: 400
     bold: 0
-    italic: true
+    italic: y
     line_height: 1.25
     size: 1
-    top: 0
   title:
-    google: true
     family: Playfair Display
     weight: 600
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
     size: 1
-    top: 0
-  blockquote_cursive: true
+  blockquote_cursive: y
 colors:
   main:
     color: '#975b27'
-    light: ''
-    dark: ''
-    contrast:
-      fill: false
-      in: true
-      text: true
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: n
+      in: y
+      text: y
   alt:
-    color: ''
-    light: ''
-    dark: ''
-    contrast:
-      fill: true
-      in: true
-      text: true
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: y
+      in: y
+      text: y
   cta:
-    color: ''
-    light: ''
-    dark: ''
-    contrast:
-      fill: false
-      in: true
-      text: true
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: n
+      in: y
+      text: y
   base:
-    white: '#fff'
+    white: '#ffffff'
     light: '#f2e9e6'
     gray: '#767676'
     dark: '#573313'
-    black: '#000'
+    black: '#000000'
 rounded:
   radius: 1.33
-  chamfer: false
-buttons:
-  sides_round: false
-  dot_circle: false
-  deep: true
-  outline: true
+  chamfer: n
+btns:
+  pill: n
+  disc: n
+  deep: y
+  outline: y
   font:
     type: title
-    bold: false
-    caps: true
+    bold: n
+    caps: y
   swap:
     type: base
-    bold: false
-    caps: false
+    bold: n
+    caps: n
 inputs:
-  fill: false
-  labels_out: false
+  fill: n
+  labels: in
 shadow:
   left: 0.15
   top: 0.15

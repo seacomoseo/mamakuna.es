@@ -1,14 +1,8 @@
 ---
 slug: vivir-desde-dentro
 title: Vivir desde dentro
-seo: ''
-description: ''
-image: blog/vivir-desde-dentro.jpg
-toc: false
-draft: false
-noindex: false
+img: /u/blog/vivir-desde-dentro.jpg
 date: 2024-04-24 00:00:00
-# lastmod: ''
 ---
 
 Vivir desde dentro es tomar conciencia de quien eres, vivir sabiendo que todo lo que ves fuera de ti refleja tu mundo interno.

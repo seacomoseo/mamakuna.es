@@ -1,11 +1,11 @@
 ---
 title: Constelaciones Familiares Individuales
-seo: Constelaciones Familiares Individuales en Murcia - Mamakuna
+seo:
+  title: Constelaciones Familiares Individuales en Murcia - Mamakuna
+  desc: llll➤ Sanación a través de constelaciones familiares individuales ✅ por Afree.
 slug: constelaciones-familiares
-description: llll➤ Sanación a través de constelaciones familiares individuales ✅ por Afree.
-image: terapias/constelaciones-familiares.jpg
-draft: true
-noindex: false
+img: /u/terapias/constelaciones-familiares.jpg
+draft: y
 tpl:
   sections:
   - file: terapias-constelaciones-familiares
@@ -16,4 +16,3 @@ service_types:
 service_areas:
 - Murcia
 ---
-

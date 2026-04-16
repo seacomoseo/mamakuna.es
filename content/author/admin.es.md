@@ -1,12 +1,9 @@
 ---
 title: Afree
-seo: ''
 slug: afree
-description: Activo tu sabiduría a través de la energía
-image: fondo.jpg
-toc: false
-draft: false
-noindex: false
+seo:
+  desc: Activo tu sabiduría a través de la energía
+img: /u/fondo.jpg
 ---
 Activo tu sabiduría a través de la energía.
 
