@@ -11,19 +11,13 @@ boxes:
   boxes:
   - img: /u/terapias/limpieza-energetica.jpg
     title: Limpieza <br> Energética
-    anchor: Limpieza Energética en Murcia, San Pedro del Pinatar y Torrevieja
+    anchor: Limpieza Energética Online
     url: /limpieza-energetica/
   - img: /u/terapias/circulos-mujeres.jpg
     title: Círculos <br> de Mujeres
-    anchor: Círculos de Mujeres en Murcia y Torrevieja
-    sub: null
+    # anchor: Círculos de Mujeres en Murcia y Torrevieja
     url: /circulos-mujeres/
   - img: /u/terapias/sanacion-utero.jpg
     title: Sanación <br> de Útero
-    anchor: Sanación de Útero en Murcia, San Pedro del Pinatar y Torrevieja
-    sub: null
+    anchor: Sanación de Útero Online
     url: /sanacion-utero/
-  # - img: /u/terapias/reiki.webp
-  #   title: Reiki <br> Crístico
-  #   anchor: Reiki Online y en Murcia, San Pedro del Pinatar y Torrevieja
-  #   url: /reiki/

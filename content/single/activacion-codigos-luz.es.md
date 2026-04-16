@@ -5,7 +5,6 @@ seo:
   desc: llll➤ Sanación a través de activación de códigos de luz de espacios y cuerpos ✅ por Afree.
 slug: activacion-codigos-luz
 img: /u/terapias/activacion-codigos-luz.jpg
-draft: y
 tpl:
   sections:
   - file: terapias-activacion-codigos-luz
@@ -16,4 +15,5 @@ service_types:
 service_areas:
 - Murcia
 - Online
+draft: y
 ---

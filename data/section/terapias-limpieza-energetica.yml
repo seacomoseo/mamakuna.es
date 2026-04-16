@@ -7,7 +7,7 @@ fade_to: disc
 size: md
 full: y
 boxes:
-- hanchor: Limpieza Energética Online y en Murcia, San Pedro del Pinatar y Torrevieja
+- hanchor: Limpieza Energética Online
   title: Limpieza Energética
   sub: de Espacios y Cuerpos
   caps: n
@@ -38,20 +38,20 @@ boxes:
       align: center
 
     - title: Sesión de Terapia energética
-      # sub: Presencial y a distancia
+      sub: A distancia (online)
       md: Acompañamiento en el plano astral. El enfoque es tomar conciencia de tu fuerza, activar la visión para reconocer los bloqueos presentes y transformarlos. Se alinean los centros energéticos, se libera cuerpo emocional, se reconfigura el campo electromagnético con los códigos de tu frecuencia origen.
 
     - title: Limpieza con Péndulo Hebreo
-      sub: A distancia
+      sub: A distancia (online)
       md: Limpieza de los cuerpos que conforman tu sistema (emocional, mental, energético, astral y físico). Se libera el cuerpo de energías de baja vibración, se cortan enganches energéticos nocivos que están causando interferencia; mal de ojo, magias, ataques energéticos, parásitos astrales, entidades oscuras etc. Se alinean los centros energéticos (chakras), se restaura y se blinda tu campo electromagnético, fortaleciendo la configuración original del espíritu que eres.
 
     - title: Limpieza Chamánica
-      sub: Presencial
+      sub: Presencial (consultar disponibilidad)
       md: Enfocada a despertar la grandeza del Espíritu. Se limpia toda la energía, lista para liberarse, de todos los cuerpos; mental, emocional, energético y físico, mediante el humo de plantas medicinales, el latido del tambor y el canto sagrado.
         Se activa tu fuerza, el recuerdo de la memoria ancestral que te habita, despiertan los dones y la claridad.  
 
     - title: Limpieza de Espacios
-      sub: A distancia
+      sub: A distancia (online)
       md: Los lugares acumulan energías de todas las personas que los han transitado y todas las circunstancias que los han protagonizado, si no se limpian regularmente, la energía se va estancando y pueden crear portales negativos que debilitan la vitalidad de quienes los habitan.
 
     - img: /u/fotos/afree-tambor-chamanico.webp

@@ -6,7 +6,6 @@ seo:
   noindex: y
 slug: musica-medicina
 img: /u/terapias/musica-medicina.jpg
-draft: y
 tpl:
   sections:
   - file: terapias-musica-medicina
@@ -16,4 +15,5 @@ service_types:
 - Música Medicina
 service_areas:
 - Murcia
+draft: y
 ---

@@ -8,9 +8,9 @@ alpha: 0.8
 size: md
 boxes:
 - title: Círculos de Mujeres
-  sub: en Murcia y Torrevieja
+  sub: Consultar disponibilidad
   caps: n
-  hanchor: Círculos de Mujeres en Murcia y Torrevieja
+  # hanchor: Círculos de Mujeres en Murcia y Torrevieja
   box:
     cols: 5
     gap: 3

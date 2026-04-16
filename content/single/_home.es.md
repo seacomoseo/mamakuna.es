@@ -1,8 +1,8 @@
 ---
 title: Inicio
 seo:
-  title: Mamakuna - Terapias Energéticas y Sanación Femenina en Murcia
-  desc: llll➤ Limpieza energética, círculos de mujeres y sanación de útero en Murcia, San Pedro del Pinatar y Torrevieja. Conecta con tu esencia.
+  title: Mamakuna - Terapias Energéticas y Sanación Femenina Online
+  desc: llll➤ Terapeuta Holística Online. Limpiezas Energéticas, Círculos de Mujeres y Sanación de Útero. Conecta con tu Esencia.
 slug: inicio
 img: /u/base/logo.png
 tpl:
@@ -26,9 +26,7 @@ org:
   names:
   - Mamakuna
   - Mamakuna - Terapeuta Holística
-  - Mamakuna - Terapeuta Holística en Murcia
-  - Mamakuna - Terapeuta Holística en San Pedro del Pinatar
-  - Mamakuna - Terapeuta Holística en Torrevieja
+  - Mamakuna - Terapeuta Holística Online
   - Mamakuna Soul
   - Afree Mamakuna
   - Afree
@@ -72,27 +70,25 @@ org:
     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
     url: null
   areas:
-  - Murcia
-  - San Pedro del Pinatar
-  - Torrevieja
+  - España
   - Online
   when: []
   prices: €€
   services:
   - title: Limpieza Energética
-    desc: Purifica tu aura y tu hogar con limpieza energética online o presencial en Murcia, San Pedro del Pinatar y Torrevieja. Péndulo hebreo, chamanismo y guía de autocuidado.
-    area: Murcia, San Pedro del Pinatar y Torrevieja
+    desc: Purifica tu aura y tu hogar con limpieza energética online o presencial. Péndulo hebreo, chamanismo y guía de autocuidado.
+    area: Online
     url: /limpieza-energetica/
   - title: Círculos de Mujeres
-    desc: Comparte meditación, danza y palabra en nuestros círculos de mujeres en Murcia y Torrevieja. Recupera hermandad femenina en un espacio seguro.
-    area: Murcia y Torrevieja
+    desc: Comparte meditación, danza y palabra en nuestros círculos de mujere. Recupera hermandad femenina en un espacio seguro.
+    area: España
     url: /circulos-mujeres/
   - title: Sanación de Útero
-    desc: Libera memorias y despierta tu energía creadora con sanación y bendición uterina en Murcia, San Pedro del Pinatar y Torrevieja. Masaje, conexión divina y placer femenino.
-    area: Murcia, San Pedro del Pinatar y Torrevieja
+    desc: Libera memorias y despierta tu energía creadora con sanación y bendición uterina online. Masaje, conexión divina y placer femenino.
+    area: Online
     url: /sanacion-utero/
   # - title: Reiki
-  #   desc: Reiki Crístico online o presencial en Murcia, San Pedro del Pinatar y Torrevieja. Amor incondicional que alinea tus chakras y eleva tu energía.
-  #   area: Online y en Murcia, San Pedro del Pinatar, Torrevieja
+  #   desc: Reiki Crístico online. Amor incondicional que alinea tus chakras y eleva tu energía.
+  #   area: Online
   #   url: /reiki/
 ---

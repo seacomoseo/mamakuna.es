@@ -5,7 +5,6 @@ seo:
   desc: llll➤ Sanación a través de constelaciones familiares individuales ✅ por Afree.
 slug: constelaciones-familiares
 img: /u/terapias/constelaciones-familiares.jpg
-draft: y
 tpl:
   sections:
   - file: terapias-constelaciones-familiares
@@ -15,4 +14,5 @@ service_types:
 - Constelaciones Familiares Individuales
 service_areas:
 - Murcia
+draft: y
 ---

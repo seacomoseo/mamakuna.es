@@ -5,7 +5,6 @@ seo:
   desc: llll➤ Sanación a través de ceremonias de cacao ✅ por Afree.
 slug: ceremonias-cacao
 img: /u/terapias/ceremonias-cacao.jpg
-draft: y
 tpl:
   sections:
   - file: terapias-ceremonias-cacao
@@ -15,4 +14,5 @@ service_types:
 - Ceremonias de Cacao
 service_areas:
 - Murcia
+draft: y
 ---

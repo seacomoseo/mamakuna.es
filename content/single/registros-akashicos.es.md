@@ -5,7 +5,6 @@ seo:
   desc: llll➤ Sanación a través de registros akáshicos ✅ por Afree.
 slug: registros-akashicos
 img: /u/terapias/registros-akashicos.jpg
-draft: y
 tpl:
   sections:
   - file: terapias-registros-akashicos
@@ -16,4 +15,5 @@ service_types:
 service_areas:
 - Murcia
 - Online
+draft: y
 ---
