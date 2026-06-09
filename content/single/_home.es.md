@@ -59,7 +59,7 @@ org:
   - https://g.page/r/Cem6Zye01vC0EBM
   - https://www.youtube.com/@shalom.mamakuna
   phones:
-  - 605 38 01 98
+  - 613 32 62 30
   address:
   - name: Mamakuna - Terapeuta Holística
     street: Ronda de Levante, 1
