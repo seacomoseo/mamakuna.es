@@ -1,8 +1,8 @@
 ---
 title: Reiki Crístico
 seo:
-  title: Reiki Crístico Online y en Murcia y Torrevieja
-  desc: llll➤ Online o presencial en Murcia y Torrevieja. Amor incondicional que alinea tus chakras y eleva tu energía. Reserva tu sesión.
+  title: Reiki Crístico Online
+  desc: llll➤ Amor incondicional que alinea tus chakras y eleva tu energía. Reserva tu sesión online.
 slug: reiki
 img: /u/terapias/reiki.webp
 tpl:
@@ -13,8 +13,5 @@ base: service
 service_types:
 - Reiki Crístico
 service_areas:
-- Murcia
-- Torrevieja
 - Online
-draft: y
 ---

@@ -87,8 +87,8 @@ org:
     desc: Libera memorias y despierta tu energía creadora con sanación y bendición uterina online. Masaje, conexión divina y placer femenino.
     area: Online
     url: /sanacion-utero/
-  # - title: Reiki
-  #   desc: Reiki Crístico online. Amor incondicional que alinea tus chakras y eleva tu energía.
-  #   area: Online
-  #   url: /reiki/
+  - title: Reiki
+    desc: Reiki Crístico online. Amor incondicional que alinea tus chakras y eleva tu energía.
+    area: Online
+    url: /reiki/
 ---

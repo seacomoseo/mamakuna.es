@@ -2,6 +2,7 @@ baseURL: https://mamakuna.es
 buildFuture: y
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: mamakuna.es
   name: mamakuna
   netlify_id: 5dcabfc1-fddb-46d7-9689-4e97c0b98430

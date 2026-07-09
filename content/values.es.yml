@@ -16,6 +16,9 @@ menu:
     - label: Sanación de Útero
       anchor: Sanación de Útero Online
       url: /sanacion-utero/
+    - label: Reiki Crístico
+      anchor: Reiki Crístico Online
+      url: /reiki/
   - label: Sobre mi
     url: /#sobre-mi
   - label: Testimonios

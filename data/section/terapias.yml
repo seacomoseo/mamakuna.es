@@ -3,7 +3,7 @@ boxes:
 - title: Terapias
   sub: Herramientas a tu servicio
   box:
-    cols: 3
+    cols: 4
     card: y
     line: y
     btn: hide
@@ -21,3 +21,7 @@ boxes:
     title: Sanación <br> de Útero
     anchor: Sanación de Útero Online
     url: /sanacion-utero/
+  - img: /u/terapias/reiki.webp
+    title: Reiki <br> Crístico
+    anchor: Reiki Crístico Online
+    url: /reiki/

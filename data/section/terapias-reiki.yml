@@ -8,9 +8,9 @@ full: y
 alpha: 0.8
 boxes:
 - title: Reiki Crístico
-  sub: Online y en Murcia y Torrevieja
+  sub: Online
   caps: n
-  hanchor: Reiki Crístico Online y en Murcia y Torrevieja
+  hanchor: Reiki Crístico Online
   box:
     cols: 2
     gap_vs: 5
