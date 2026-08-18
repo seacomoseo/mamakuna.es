@@ -5,10 +5,10 @@ img: /u/eventos/2024-06-29-medicina-selva.jpg
 date: 2024-06-29 19:00:00
 end: 2024-06-29 22:00:00
 price: 33
-cancelled: n
+cancelled: false
 artists:
 - name: Afree
-  group: n
+  group: false
 address:
   name: El Templo de la Diosa
   street: El Mirador

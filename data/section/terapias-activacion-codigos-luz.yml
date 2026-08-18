@@ -3,17 +3,17 @@ bi: /u/terapias/activacion-codigos-luz.jpg
 color: light
 fade: white
 fade_to: disc
-full: y
+full: true
 alpha: 0.8
 boxes:
 - title: Activación de Códigos de Luz
   sub: Online y en Murcia
-  caps: n
+  caps: false
   hanchor: Activación de Códigos de Luz Online y en Murcia - Mamakuna
   box:
     cols: 2
     gap: 3
-    line: y
+    line: true
   boxes:
   - fit: 2
     bi: /u/fotos/06.jpg

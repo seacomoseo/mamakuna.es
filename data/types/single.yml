@@ -7,25 +7,25 @@ tpl:
   menu:
     size: lg
     sticky: auto
-    logo_sticky: y
+    logo_sticky: true
   section:
   - size: lg
     scroll: fix
     alpha: 0.7
     div: ethnic
     box:
-      caps: y
-      line: y
+      caps: true
+      line: true
   - color: white
-    div_y: y
+    div_y: true
   list:
     cols: 3
     color: black
-    card: y
-    shade: n
+    card: true
+    shade: false
     icon: hide
     align: center
     md: hide
     btn: hide
-    line: y
+    line: true
     hs: 3

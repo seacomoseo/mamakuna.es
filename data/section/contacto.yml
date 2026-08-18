@@ -10,6 +10,6 @@ boxes:
   - pin: brand:whatsapp
     label: 613 32 62 30
     url: https://wa.me/34613326230
-    lock: y
+    lock: true
   - md: (África)
     align: center

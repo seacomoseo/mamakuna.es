@@ -5,5 +5,5 @@ id: content
 pt: 0
 boxes:
 - md: '{{% content %}}'
-  md_nav: y
-  md_index: n
+  md_nav: true
+  md_index: false

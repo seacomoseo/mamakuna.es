@@ -14,5 +14,5 @@ service_types:
 - Ceremonias de Cacao
 service_areas:
 - Murcia
-draft: y
+draft: true
 ---

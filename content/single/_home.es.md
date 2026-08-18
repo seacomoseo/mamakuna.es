@@ -7,10 +7,10 @@ slug: inicio
 img: /u/base/logo.png
 tpl:
   menu:
-    logo: n
+    logo: false
   sections:
-  - file: _header
-  - file: _header-next
+  - file: _hero
+  - file: _hero-next
   - file: terapias
   - file: sobre-mi
   - file: testimonios

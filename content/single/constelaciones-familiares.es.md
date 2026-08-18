@@ -14,5 +14,5 @@ service_types:
 - Constelaciones Familiares Individuales
 service_areas:
 - Murcia
-draft: y
+draft: true
 ---

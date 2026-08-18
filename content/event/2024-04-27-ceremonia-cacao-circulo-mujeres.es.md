@@ -5,10 +5,10 @@ img: /u/eventos/2024-04-27-ceremonia-cacao-circulo-mujeres.png
 date: 2024-04-27 12:00:00
 end: 2024-04-27 15:00:00
 # price: null
-cancelled: n
+cancelled: false
 artists:
 - name: Afree
-  group: n
+  group: false
 address:
   name: El Templo de la Diosa
   street: El Mirador

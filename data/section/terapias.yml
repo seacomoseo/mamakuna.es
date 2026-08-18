@@ -4,8 +4,8 @@ boxes:
   sub: Herramientas a tu servicio
   box:
     cols: 4
-    card: y
-    line: y
+    card: true
+    line: true
     btn: hide
     hs: 3
   boxes:

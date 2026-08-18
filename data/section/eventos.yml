@@ -7,4 +7,4 @@ boxes:
     type: event
   box:
     cols: 4
-    slider: y
+    slider: true

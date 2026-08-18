@@ -1,9 +1,12 @@
+@use 'css/variables' as *;
+@use 'css/mixins' as *;
+
 // Non selectable text
 body {
   user-select: none;
 }
 
-// Header
+// Hero
 @keyframes logo-intro {
   0%,
   75% {
@@ -13,7 +16,7 @@ body {
       scale(var(--logo-z, 1.125));
   }
 }
-#body-home #header {
+#body-home #hero {
   .box--1 {
     animation: logo-intro 1.75s 0s both;
     @media (min-width: $viewport-lg) {
@@ -59,7 +62,7 @@ body {
 // }
 
 // #body-constelaciones-familiares
-// #header {
+// #hero {
 //   .box--2
 //   .md {
 //     gap: 2em;

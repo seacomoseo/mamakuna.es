@@ -3,18 +3,18 @@ bi: /u/terapias/circulos-mujeres.jpg
 color: light
 fade: white
 fade_to: disc
-full: y
+full: true
 alpha: 0.8
 size: md
 boxes:
 - title: Círculos de Mujeres
   sub: Consultar disponibilidad
-  caps: n
+  caps: false
   # hanchor: Círculos de Mujeres en Murcia y Torrevieja
   box:
     cols: 5
     gap: 3
-    line: y
+    line: true
     align_y: center
   boxes:
   - fit: 2

@@ -3,17 +3,17 @@ bi: /u/terapias/constelaciones-familiares.jpg
 color: light
 fade: white
 fade_to: disc
-full: y
+full: true
 alpha: 0.8
 boxes:
 - title: Constelaciones Familiares Individuales
   sub: en Murcia
-  caps: n
+  caps: false
   hanchor: Constelaciones Familiares Individuales en Murcia - Mamakuna
   box:
     cols: 3
     gap: 3
-    line: y
+    line: true
     align: left
   boxes:
   - fit: 1

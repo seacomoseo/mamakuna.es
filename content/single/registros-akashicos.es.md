@@ -15,5 +15,5 @@ service_types:
 service_areas:
 - Murcia
 - Online
-draft: y
+draft: true
 ---

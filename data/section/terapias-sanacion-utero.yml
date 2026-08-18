@@ -3,7 +3,7 @@ bi: /u/terapias/sanacion-utero.jpg
 color: light
 fade: white
 fade_to: disc
-full: y
+full: true
 size: md
 alpha: 0.8
 boxes:
@@ -13,11 +13,11 @@ boxes:
   md: |
     > El útero no es un lugar para guardar miedo o dolor, <br> el útero es un lugar para crear y dar luz a la vida
     > <cite>Marcela Lobos</cite>
-  caps: n
+  caps: false
   box:
     duo: 1
     gap_vs: 3
-    line: y
+    line: true
     align: left
     align_y: center
   boxes:

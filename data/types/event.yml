@@ -1,14 +1,14 @@
 title: Eventos
 base: event
 weight: 1
-rel: y
+rel: true
 tpl:
   list:
-    card: y
+    card: true
     color: black
     rate: 3/4
     align: left
-    shade: n
+    shade: false
     price: hide
     md: hide
     btn: hide

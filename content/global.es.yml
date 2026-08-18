@@ -38,7 +38,7 @@ callnows:
   btn: cta
 footer:
   div: ethnic
-  div_y: n
+  div_y: false
   space: 2
   dots:
   - url: https://g.page/r/Cem6Zye01vC0EBM

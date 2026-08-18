@@ -28,8 +28,8 @@ boxes:
 #       [Seguir leyendo…](#sobre-mi-mas)
 # modal:
 #   color: white
-#   caps: y
-#   line: y
+#   caps: true
+#   line: true
 # modals:
 # - id: sobre-mi-mas
 #   title: Más sobre mi

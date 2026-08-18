@@ -3,17 +3,17 @@ bi: /u/terapias/ceremonias-cacao.jpg
 color: light
 fade: white
 fade_to: disc
-full: y
+full: true
 alpha: 0.8
 boxes:
 - title: Ceremonias de Cacao
   sub: en Murcia
-  caps: n
+  caps: false
   hanchor: Ceremonias de Cacao en Murcia - Mamakuna
   box:
     cols: 2
     gap: 3
-    line: y
+    line: true
   boxes:
   - fit: 2
     img: /u/poster/ceremonias-cacao.jpg

@@ -5,10 +5,10 @@ img: /u/eventos/2025-05-11-circulo-sagrado-femenino.jpg
 date: 2025-05-11 11:00:00
 end: 2025-05-11 13:00:00
 price: 22
-cancelled: n
+cancelled: false
 artists:
 - name: Afree
-  group: n
+  group: false
 address:
   name: Rincón de los Sentidos
   street: Carril Penchos, 103

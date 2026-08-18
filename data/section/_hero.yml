@@ -1,10 +1,10 @@
-name: Header
+name: Hero
 color: light
 fade: white
 fade_to: disc
 bi: /u/fondo.jpg
 size: md
-full: y
+full: true
 pt: 2
 alpha: 0.8
 div: mountain
@@ -13,7 +13,7 @@ boxes:
   box:
     cols: 1
     gap: 3
-    line: y
+    line: true
     align_y: center
   boxes:
   - fit: 0.4

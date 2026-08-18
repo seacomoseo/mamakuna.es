@@ -5,10 +5,10 @@ img: /u/eventos/2024-06-02-ceremonia-bendicion-utero-canto-sagrado.jpg
 date: 2024-06-02 17:00:00
 end: 2024-06-02 20:00:00
 # price: null
-cancelled: n
+cancelled: false
 artists:
 - name: Afree
-  group: n
+  group: false
 address:
   name: null
   street: null

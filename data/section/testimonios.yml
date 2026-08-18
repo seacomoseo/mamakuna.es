@@ -4,7 +4,7 @@ boxes:
   sub: Dicen de mi...
 - review:
     color: such
-    slider: y
+    slider: true
     time: 8
     cols: 3
   reviews:

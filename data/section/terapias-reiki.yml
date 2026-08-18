@@ -4,17 +4,17 @@ color: light
 fade: white
 fade_to: disc
 size: md
-full: y
+full: true
 alpha: 0.8
 boxes:
 - title: Reiki Crístico
   sub: Online
-  caps: n
+  caps: false
   hanchor: Reiki Crístico Online
   box:
     cols: 2
     gap_vs: 5
-    line: y
+    line: true
     align: left
     align_y: center
   boxes:

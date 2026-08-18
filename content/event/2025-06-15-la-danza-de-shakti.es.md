@@ -5,10 +5,10 @@ img: /u/eventos/2025-06-15-la-danza-de-shakti.jpg
 date: 2025-06-15 10:30:00
 end: 2025-06-15 13:00:00
 price: 22
-cancelled: n
+cancelled: false
 artists:
 - name: Afree
-  group: n
+  group: false
 address:
   name: Rincón de los Sentidos
   street: Carril Penchos, 103

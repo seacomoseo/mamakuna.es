@@ -5,19 +5,19 @@ color: light
 fade: white
 fade_to: disc
 size: md
-full: y
+full: true
 boxes:
 - hanchor: Limpieza Energética Online
   title: Limpieza Energética
   sub: de Espacios y Cuerpos
-  caps: n
+  caps: false
   box:
     gap_vs: 5
   boxes:
   - box:
       cols: 2
       gap_vs: 3
-      line: y
+      line: true
       align: left
       align_y: center
       ratio: 4/3
@@ -29,12 +29,12 @@ boxes:
     box:
       gap_vs: 2
       hn: h3
-      line: y
+      line: true
       align: left
     boxes:
     - title: Tipos de limpieza
       hn: h2
-      line: y
+      line: true
       align: center
 
     - title: Sesión de Terapia Energética
