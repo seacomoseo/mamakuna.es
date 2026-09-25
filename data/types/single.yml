@@ -1,6 +1,6 @@
 title: Páginas Únicas
-weight: 0
 base: single
+weight: 0
 tpl:
   bg:
     color: light
@@ -9,9 +9,9 @@ tpl:
     sticky: auto
     logo_sticky: true
   section:
-  - size: lg
-    scroll: fix
+  - scroll: fix
     alpha: 0.7
+    size: lg
     div: ethnic
     box:
       caps: true

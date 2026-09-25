@@ -2,7 +2,5 @@
   value: admin
   type: slice
   path:
-  - /
-  - /single/*
   - /blog/*
   - /event/*

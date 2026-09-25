@@ -1,9 +1,9 @@
 ---
+slug: inicio
 title: Inicio
 seo:
   title: Mamakuna - Terapias Energéticas y Sanación Femenina Online
   desc: llll➤ Terapeuta Holística Online. Limpiezas Energéticas, Círculos de Mujeres y Sanación de Útero. Conecta con tu Esencia.
-slug: inicio
 img: /u/base/logo.png
 tpl:
   menu:
@@ -68,7 +68,7 @@ org:
     region: Murcia
     country: ES
     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-    url: null
+    url: https://g.page/r/Cem6Zye01vC0EBM
   areas:
   - España
   - Online
