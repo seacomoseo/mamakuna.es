@@ -5,6 +5,8 @@ seo:
   title: Mi camino | Afree
   desc: Conoce el camino espiritual de África y su forma de acompañar procesos de reconexión, presencia y autenticidad.
 img: /u/fotos/afree-sintiendo.webp
+
+
 tpl:
   sections:
   - file: common-duo
