@@ -1,0 +1,15 @@
+name: Común ➡️ Contacto
+size: xs
+menu_btn: cta
+box:
+  gap_vs: 2
+boxes:
+- title: Contacto
+  sub: Volver a ti es volver al amor
+- fit: .75
+  md: |
+    [[::brand:whatsapp:: 613 32 62 30]](https://wa.me/34613326230 "[nofollow ga4]")
+    [[::mail:: afree.recuerda@gmail.com]](mailto:afree.recuerda@gmail.com "[nofollow ga4 swap dark]")
+    [[::brand:instagram:: @afree.ancestral]](https://www.instagram.com/afree.ancestral "[nofollow ga4 swap alt]")
+
+    (África)

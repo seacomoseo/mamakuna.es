@@ -1,6 +1,6 @@
 title: Eventos
 base: event
-weight: 1
+weight: 3
 rel: true
 tpl:
   list:

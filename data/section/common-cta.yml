@@ -1,0 +1,12 @@
+name: Común ➡️ CTA (Llamada a la Acción)
+id: por-que-conmigo
+get:
+- from: cta.size
+  to: size
+boxes:
+- align: center
+  get:
+  - from: cta.title
+    to: title
+  - from: cta.md
+    to: md

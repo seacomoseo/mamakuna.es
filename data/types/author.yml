@@ -1,6 +1,6 @@
 title: Autores
 base: author
-weight: 1
+weight: 4
 tax_of:
 - name: blog
   schema: author
@@ -8,3 +8,15 @@ tax_of:
   schema: author
 - name: single
   schema: author
+tpl:
+  list:
+    color: black
+    card: true
+    shade: false
+    align: center
+    line: true
+    hs: 4
+    md: hide
+    label: Ver más
+    pin: add
+    btn: cta

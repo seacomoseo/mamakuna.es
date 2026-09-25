@@ -1,0 +1,31 @@
+title: Acompañamientos
+base: service
+weight: 1
+tpl:
+  section:
+  - color: white
+    scroll: fix
+    alpha: 0.7
+    size: lg
+    box:
+      caps: true
+      line: true
+  - color: light
+  sections:
+  - file: common-duo
+  - file: common-testimonios
+  - file: common-cta
+  - file: common-contacto
+  list:
+    cols: 3
+    color: black
+    card: true
+    shade: false
+    icon: hide
+    align: center
+    line: true
+    hs: 4
+    md: hide
+    label: Ver más
+    pin: add
+    btn: cta

@@ -6,6 +6,12 @@ body {
   user-select: none;
 }
 
+// Afree uses a quiet horizontal rule between sections instead of decorative
+// SVG dividers.
+.section + .section {
+  border-top: 1px solid rgba($main, .16);
+}
+
 // Hero
 @keyframes logo-intro {
   0%,
@@ -17,6 +23,7 @@ body {
   }
 }
 #body-home #hero {
+  filter: none;
   .box--1 {
     animation: logo-intro 1.75s 0s both;
     @media (min-width: $viewport-lg) {
@@ -30,13 +37,20 @@ body {
   }
   .box__title  { @include show-from(-1); }
   .line:after  { @include show-from(5); }
-  .sub    { @include show-from(6); }
+  .sub         { @include show-from(6); }
   .md p        { @include show-from(7); }
-  .md .btns { @include show-from(8); }
+  .md .btns    { @include show-from(8); }
   .box--2      { @include show-from(9); }
   .line {
     font-size: 3em;
   }
+  [data-vid] ~ .icon {
+    margin-top: 7em;
+    // @include mixins.fluid-size(margin-top, 1em, 6, 9);
+  }
+}
+#body-home #imagen-de-transicion {
+  filter: none;
 }
 
 // @keyframes soul {

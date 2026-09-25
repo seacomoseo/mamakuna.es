@@ -1,6 +1,6 @@
 - name: author
   value: admin
-  type: slice
   path:
   - /blog/*
   - /event/*
+  - /service/*

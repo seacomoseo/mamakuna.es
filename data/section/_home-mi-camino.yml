@@ -1,0 +1,28 @@
+name: Inicio ➡️ Mi camino
+# size: md
+boxes:
+- title: Mi camino
+  sub: Volver a ti
+  box:
+    duo: 1
+    gap: 5
+    gap_vs: 3
+    scroll: soft
+    rate: 4/3
+    align: left
+  boxes:
+  - bi: /u/fotos/afree-ser.webp
+  - md: |
+      Desde niña he sentido una profunda conexión con la vida, la espiritualidad y la sensibilidad hacia el mundo emocional de las personas.
+
+      Durante muchos años no comprendí del todo esta sensibilidad.
+
+      Mi propio camino me llevó a atravesar procesos de búsqueda, transformación y reconexión conmigo misma, aprendiendo a escuchar la sabiduría que nace del corazón.
+
+      Con el tiempo comprendí que no necesitamos convertirnos en alguien diferente, sino recordar quiénes somos realmente.
+
+      Hoy acompaño a personas que sienten la llamada de volver a sí mismas, recuperar su equilibrio interior y vivir desde su autenticidad, creando espacios donde puedan conectar con su propia sabiduría y con la esencia que habita en ellas.
+
+      Mi labor es acompañarte a reconectar con el puente que ya existe entre tu espíritu y tú, a recordar tu propia luz y a caminar desde tu verdad.
+
+      [[Conoce mi historia completa]](/mi-camino/)

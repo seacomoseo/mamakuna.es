@@ -1,12 +1,12 @@
-baseURL: https://mamakuna.es
+baseURL: https://afree.es
 buildFuture: true
 theme: [sansoul]
 params:
   owner: seacomoseo
-  domain: mamakuna.es
-  name: mamakuna
+  domain: afree.es
+  name: afree
   netlify_id: 5dcabfc1-fddb-46d7-9689-4e97c0b98430
   netlify_hook: NjYxN2NhMzYzODA5MjI4MTZlYmE0NzMyCg==
   cloudflare_id: 
   drive_url: https://drive.google.com/file/d/1QEBULcpW5tI-KXQwrvIjOjArWkgTyCfi
-  drive_mails: afreesky7@gmail.com
+  drive_mails: afree.recuerda@gmail.com, afreesky7@gmail.com

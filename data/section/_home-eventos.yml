@@ -1,0 +1,13 @@
+name: Inicio ➡️ Eventos
+boxes:
+- title: Eventos
+  sub: Calendario
+  list:
+    type: event
+    max: 12
+  box:
+    cols: 4
+    slider: true
+  url: /eventos/
+  label: Ver más
+  pin: add

@@ -1,4 +1,9 @@
 title: Blog
 base: article
-weight: 1
+weight: 2
 rel: true
+tpl:
+  list:
+    card: true
+    color: black
+    shade: false

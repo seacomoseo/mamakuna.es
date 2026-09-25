@@ -2,47 +2,46 @@ menu:
   img: /u/base/logo-h.svg
   items:
   - label: Inicio
+    anchor: Afree - Terapeuta Holística
     url: /
-    anchor: Mamakuna - Terapeuta Holística Online
-  - label: Terapias
-    url: /#terapias
+  - label: Acompañamientos
+    url: /#acompanamientos
     items:
     - label: Limpieza Energética
       anchor: Limpieza Energética Online
       url: /limpieza-energetica/
+    - label: Bendición de Útero
+      anchor: Bendición de Útero Online
+      url: /bendicion-utero/
     - label: Círculos de Mujeres
-      # anchor: Círculos de Mujeres en Murcia y Torrevieja
       url: /circulos-mujeres/
-    - label: Sanación de Útero
-      anchor: Sanación de Útero Online
-      url: /sanacion-utero/
-    - label: Reiki Crístico
-      anchor: Reiki Crístico Online
-      url: /reiki/
-  - label: Sobre mi
-    url: /#sobre-mi
+    - label: Frecuencia Crística
+      anchor: Frecuencia Crística Online
+      url: /frecuencia-cristica/
+  - label: Mi camino
+    url: /#mi-camino
   - label: Testimonios
     url: /#testimonios
   - label: ¿Por qué conmigo?
     url: /#por-que-conmigo
+  - label: Blog
+    url: /#blog
+  - label: Eventos
+    url: /#eventos
   - label: Contacto
     url: /#contacto
     btn: cta
-  - label: Eventos
-    url: /#eventos
-  - label: Blog
-    url: /#blog
 callnows:
 - type: whatsapp
   label: 613 32 62 30
   btn: cta
+  lock: true
 footer:
-  div: ethnic
-  div_y: false
   space: 2
   dots:
+  - url: https://www.instagram.com/afree.ancestral
+  - url: https://www.youtube.com/@afree.ancestral
   - url: https://g.page/r/Cem6Zye01vC0EBM
-  - url: https://www.youtube.com/@shalom.mamakuna
   md: |
     - ::copyright::        {{< internal-link index >}}
     - ::balance::          {{< internal-link legal >}}

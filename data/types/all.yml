@@ -5,7 +5,9 @@ tpl:
   menu:
     logo: true
     logo_align: left
-    size: sm
+    size: xl
+    sticky: auto
+    logo_sticky: true
     clear: true
     color: white
     hide_icons: true

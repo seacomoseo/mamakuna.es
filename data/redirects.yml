@@ -1,5 +1,7 @@
 # Servicios
 # /activacion-codigos-luz/ /
+- { from: /sanacion-utero/ , to: /bendicion-utero/ }
+- { from: /reiki/ , to: /frecuencia-cristica/ }
 - { from: /ceremonias-cacao/ , to: / }
 - { from: /constelaciones-familiares/ , to: / }
 - { from: /musica-medicina/ , to: / }
@@ -8,3 +10,16 @@
 # Blog
 - { from: /amor-cura-medicina-camino/ , to: /blog/amor-cura-medicina-camino/ }
 - { from: /vivir-desde-dentro/ , to: /blog/vivir-desde-dentro/ }
+
+# 2026-09-25
+- { from: http://www.mamakuna.es/* , to: https://afree.es/:splat }
+- { from: http://mamakuna.es/* , to: https://afree.es/:splat }
+- { from: https://www.mamakuna.es/* , to: https://afree.es/:splat }
+- { from: https://mamakuna.es/* , to: https://afree.es/:splat }
+- { from: http://www.mamakuna.es/ , to: https://afree.es/ }
+- { from: http://mamakuna.es/ , to: https://afree.es/ }
+- { from: https://www.mamakuna.es/ , to: https://afree.es/ }
+- { from: https://mamakuna.es/ , to: https://afree.es/ }
+
+- { from: /reiki/ , to: /frecuencia-cristica/ }
+- { from: /sanacion-utero/ , to: /bendicion-utero/ }

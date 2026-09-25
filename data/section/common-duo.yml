@@ -1,0 +1,34 @@
+name: Común ➡️ Dúo
+color: light
+color_alpha: 0.25
+fade: white
+fade_to: b
+alpha: 0.85
+full: true
+get:
+- from: duo.bi
+  to: bi
+boxes:
+- caps: false
+  box:
+    duo: 1
+    gap: 5
+    pd: 3
+    pd_vs: 1.5
+    sides: true
+    scroll: soft
+    rate: 3/2
+    align: left
+    align_vl: left
+    line: true
+  get:
+  - from: duo.hanchor
+    to: hanchor
+  - from: duo.title
+    to: title
+  - from: duo.sub
+    to: sub
+  - from: duo.boxes
+    to: boxes
+  - from: duo.rate
+    to: box.rate

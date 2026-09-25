@@ -1,0 +1,6 @@
+name: Inicio ➡️ Imagen de transición
+color: hide
+# bi: /u/fotos/diosa-entrando-al-mar.jpg
+# alpha: 0
+full: true
+div: fade

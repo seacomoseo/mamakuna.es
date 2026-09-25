@@ -1,0 +1,64 @@
+name: Inicio ➡️ Oración
+color: light
+color_alpha: .25
+fade: white
+fade_to: t
+size: md
+boxes:
+- title: Un espacio para la oración
+  md: |
+    Hay momentos en los que no necesitamos respuestas.
+
+    Solo sentir que alguien nos sostiene en el amor.
+
+    Si deseas que rece por ti, puedes dejar aquí tu nombre.
+
+    Cada semana dedico un tiempo de oración por todas las personas que así lo sienten.
+
+    No necesitas explicar nada.
+
+    Solo tu nombre.
+  label: Quiero que reces por mí
+  url: '#quiero-que-reces-por-mi'
+  pin: favorite
+modal:
+  color: white
+  size: xs
+modals:
+- id: quiero-que-reces-por-mi
+  title: Quiero que reces por mí
+  md: Tu nombre será tratado con respeto y confidencialidad. Solo se utilizará para este espacio de oración.
+  form:
+    id: oracion
+    to: '#gracias-por-confiar'
+    subject: Nueva intención de oración
+    mail: afree.recuerda@gmail.com
+    confirm:
+      enabled: true
+      fields: true
+      subject: Gracias por confiar
+      intro: |
+        Incluiré tu nombre en mi próximo tiempo de oración.
+
+        Que el amor y la paz acompañen tu camino.
+      notice: Este mensaje es una confirmación automática.
+    label: Quiero que reces por mí
+    icon: favorite
+  inputs:
+  - type: text
+    name: Nombre
+    label: Nombre
+    req: true
+    icon: person
+  - type: area
+    name: Intención
+    label: ¿Quieres compartir una intención? (Opcional)
+    req: false
+    max: 500
+    icon: chat_bubble
+- id: gracias-por-confiar
+  title: Gracias por confiar
+  md: |
+    Incluiré tu nombre en mi próximo tiempo de oración.
+
+    Que el amor y la paz acompañen tu camino.

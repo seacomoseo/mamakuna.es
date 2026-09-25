@@ -1,0 +1,48 @@
+name: Inicio ➡️ ¿Es este un espacio para ti?
+id: espacio-para-ti
+# ph: true
+boxes:
+- box:
+    duo: 1
+    pd: 3
+    pd_vs: 1.5
+    sides: true
+    align: left
+    align_vl: left
+    line: true
+  boxes:
+  - bi: /u/fotos/01.jpg
+  - title: ¿Es este un espacio para ti?
+    md: |
+      Te acompaño a cuidar y proteger tu energía desde un enfoque práctico.
+
+      Acompaño a personas que sienten agotamiento crónico, cansancio, estrés, bloqueos, baja autoestima o la necesidad de reencontrarse consigo mismas.
+
+      En el caso de las mujeres, creo espacios para conectar con el cuerpo, comprender procesos emocionales vinculados al útero, liberar memorias del pasado y cultivar una relación más amorosa con esta parte de sí mismas.
+
+      También acompaño a quienes sienten la llamada de expandir el corazón, vivir desde el amor y profundizar en su conexión espiritual.
+
+  - bi: /u/fotos/afree-luz.jpg
+  - title: Quizás has llegado hasta aquí porque...
+    md: |
+      - Te sientes agotada o agotado
+      - Tu mente no descansa
+      - Estás atravesando un momento importante
+      - Sientes que te has desconectado de ti.
+      - Sientes que ha llegado el momento de volver a ti
+      - Intuyes que hay algo más
+      - Quieres profundizar en tu espiritualidad
+
+  - bi: /u/fotos/afree-manos.webp
+  - title: Lo que puedes empezar a experimentar durante este camino
+    md: |
+      - ::favorite::   Más energía en tu día a día
+      - ::star_shine:: Mayor claridad
+      - ::favorite::   Mejor descanso
+      - ::star_shine:: Reducción del ruido mental
+      - ::favorite::   Más confianza en ti misma/o
+      - ::star_shine:: Comprensión de tus emociones
+      - ::favorite::   Conexión con tu intuición
+      - ::star_shine:: Paz en el corazón
+      - ::favorite::   Presencia
+      - ::star_shine:: Capacidad para sostenerte desde tu centro

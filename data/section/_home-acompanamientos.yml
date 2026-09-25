@@ -1,0 +1,9 @@
+name: Inicio ➡️ Acompañamientos
+id: acompanamientos
+boxes:
+- title: ¿Cómo puedo acompañarte?
+  sub: Espacios para volver a ti desde el corazón
+  list:
+    type: service
+  box:
+    cols: 4

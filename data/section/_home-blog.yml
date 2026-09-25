@@ -1,0 +1,13 @@
+name: Inicio ➡️ Blog
+boxes:
+- title: Blog
+  sub: Reflexiones que nacen de mi corazón
+  list:
+    type: blog
+    max: 12
+  box:
+    cols: 4
+    slider: true
+  url: /blog/
+  label: Ver más
+  pin: add

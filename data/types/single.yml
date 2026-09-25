@@ -2,22 +2,18 @@ title: Páginas Únicas
 base: single
 weight: 0
 tpl:
-  bg:
-    color: light
   menu:
-    size: lg
-    sticky: auto
-    logo_sticky: true
+    logo: true
+    size: xl
   section:
-  - scroll: fix
+  - color: white
+    scroll: fix
     alpha: 0.7
     size: lg
-    div: ethnic
     box:
       caps: true
       line: true
-  - color: white
-    div_y: true
+  - color: light
   list:
     cols: 3
     color: black
@@ -25,7 +21,9 @@ tpl:
     shade: false
     icon: hide
     align: center
-    md: hide
-    btn: hide
     line: true
-    hs: 3
+    hs: 4
+    md: hide
+    label: Ver más
+    pin: add
+    btn: cta

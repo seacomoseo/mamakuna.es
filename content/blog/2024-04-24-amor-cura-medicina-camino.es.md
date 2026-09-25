@@ -1,7 +1,7 @@
 ---
 slug: amor-cura-medicina-camino
 title: El amor es la cura, la medicina y el camino
-img: /u/blog/amor-cura-medicina-camino.png
+img: /u/blog/el-amor-es-la-cura-la-medicina-y-el-camino.jpg
 date: 2024-04-24 00:00:00
 ---
 
@@ -37,6 +37,6 @@ Creer es crear.
 
 Creo en el amor como medicina.
 
-Creo en el amor como camino
+Creo en el amor como camino.
 
 Con amor, Afree

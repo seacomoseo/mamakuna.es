@@ -76,7 +76,7 @@ btns:
     bold: false
     caps: false
 inputs:
-  fill: false
+  fill: true
   labels: in
 shadow:
   left: 0.15

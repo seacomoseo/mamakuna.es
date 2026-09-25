@@ -1,0 +1,17 @@
+name: Común ➡️ Testimonios
+if: review
+boxes:
+- title: Testimonios
+  review:
+    cols: 3
+    cols_vs: 1.2
+    color: such
+    slider: true
+    time: 8
+  get:
+  - from: review.sub
+    to: sub
+  - from: review.reviews
+    to: reviews
+- md: |
+    [[::add:: Leer más opiniones]](https://g.page/r/Cem6Zye01vC0EBM/review "[nofollow swap]")
